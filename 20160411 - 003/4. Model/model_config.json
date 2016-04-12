@@ -1,0 +1,497 @@
+[
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 10
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_113609",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "remove break line",
+                "space after punctuation",
+                "convert to lower",
+                "remove multiple spaces",
+                "convert unicode to ascii",
+                "trim \"space\" and \",\""
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.9486666666666667,
+            "validate-accuracy": 0
+        }
+    },
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "#digit/#ascii",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 10
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_114808",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "trim \"space\" and \",\"",
+                "space after punctuation",
+                "convert unicode to ascii",
+                "remove multiple spaces",
+                "convert to lower",
+                "remove break line"
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.942,
+            "validate-accuracy": 0
+        }
+    },
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "#digit/#ascii",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 100
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_115133",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "space after punctuation",
+                "trim \"space\" and \",\"",
+                "convert to lower",
+                "remove multiple spaces",
+                "remove break line",
+                "convert unicode to ascii"
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.972,
+            "validate-accuracy": 0
+        }
+    },
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "#digit/#ascii",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 300
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_115612",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "trim \"space\" and \",\"",
+                "convert unicode to ascii",
+                "remove break line",
+                "convert to lower",
+                "remove multiple spaces",
+                "space after punctuation"
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.99,
+            "validate-accuracy": 0
+        }
+    },
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "#digit/#ascii",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 1000
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_121511",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "convert unicode to ascii",
+                "remove multiple spaces",
+                "trim \"space\" and \",\"",
+                "convert to lower",
+                "space after punctuation",
+                "remove break line"
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.9853333333333333,
+            "validate-accuracy": 0
+        }
+    },
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "#digit/#ascii",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 2000
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_124931",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "space after punctuation",
+                "remove break line",
+                "trim \"space\" and \",\"",
+                "convert to lower",
+                "convert unicode to ascii",
+                "remove multiple spaces"
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.994,
+            "validate-accuracy": 0
+        }
+    },
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "#digit/#ascii",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 2000
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_134429",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "remove multiple spaces",
+                "convert to lower",
+                "remove break line",
+                "convert unicode to ascii",
+                "trim \"space\" and \",\"",
+                "space after punctuation"
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.996,
+            "validate-accuracy": 0
+        }
+    },
+    {
+        "database": {
+            "address": "address.txt",
+            "folder": "1. Data",
+            "name": "name.txt",
+            "phone": "phone.txt"
+        },
+        "dictionary": {
+            "file": [
+                "dictionary"
+            ],
+            "folder": "0. Data-source"
+        },
+        "features": [
+            "#ascii/(#ascii+#digit+#punctuation)",
+            "#digit/(#ascii+#digit+#punctuation)",
+            "#digit/#ascii",
+            "%kwName",
+            "%kwAddress",
+            "%kwPhone",
+            "%max_digit_skip_0",
+            "first_character_ascii",
+            "first_character_digit",
+            "last_character_ascii",
+            "last_character_digit"
+        ],
+        "model": {
+            "class": "Neuron Network",
+            "config": {
+                "layers": [
+                    [
+                        100,
+                        "Sigmoid"
+                    ],
+                    [
+                        3,
+                        "Softmax"
+                    ]
+                ],
+                "learning_rate": 0.01,
+                "learning_rule": "adagrad",
+                "n_iter": 3000
+            },
+            "target": "Classify Name/Address/Phone"
+        },
+        "name": "20160412_144934",
+        "preprocessing": {
+            "flag": true,
+            "type": [
+                "space after punctuation",
+                "remove multiple spaces",
+                "trim \"space\" and \",\"",
+                "convert to lower",
+                "convert unicode to ascii",
+                "remove break line"
+            ]
+        },
+        "results": {
+            "test-accuracy": 0.996,
+            "validate-accuracy": 0
+        }
+    }
+]
