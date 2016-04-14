@@ -61,7 +61,7 @@ file_log = 'logs.xlsx' # csv
 # ==============================================
 
 # number of executive run.py
-nrun = 4
+nrun = 5
 
 tmp = loadJson(folder_datasource + '/' + files_dictionary)
 nameTermSet = tmp['name-term-set']
@@ -119,7 +119,7 @@ model_config = {
     'layers': [(100, 'Sigmoid'), (3, 'Softmax')],
     'learning_rate': 0.01,
     'learning_rule': 'adagrad',
-    'n_iter': 1000
+    'n_iter': 3000
 }
 model_config_file = 'model_config'
 
