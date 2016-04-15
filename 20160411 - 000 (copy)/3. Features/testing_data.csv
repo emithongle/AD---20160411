@@ -1,0 +1,1501 @@
+Label,Text,#ascii/(#ascii+#digit+#punctuation),#digit/(#ascii+#digit+#punctuation),%kwName,%kwAddress,%kwPhone,#max_digit_skip_0_1,first_character_ascii,first_character_digit
+0,dao anh truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen nhut minh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran quoc tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu dinh quyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,"chau, bao loc",0.9090909090909091,0.0,0,0.0,0.0,0,1,0
+0,tran van canh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyẽn van pháp,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi thuy ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham dinh cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo hoang minh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thi nhu quynh,1.0,0.0,0,0.0,0.0,0,1,0
+0,thien hoang,1.0,0.0,0,0.0,0.0,0,1,0
+0,thanh nam,1.0,0.0,0,0.0,0.0,0,1,0
+0,benjamintran,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui viet thang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thanh phong,1.0,0.0,0,0.0,0.0,0,1,0
+0,ho van giau,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo ha quynh tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,to ngoc chan,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,duong cong hung,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,than van tiep,1.0,0.0,0,0.0,0.0,0,1,0
+0,son van vu,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi thu lanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu ngoc tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,luong nguyen trai,1.0,0.0,0,0.0,0.0,0,1,0
+0,ta thi tuyet,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran ngoc vuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,vong chong vo,1.0,0.0,0,0.0,0.0,0,1,0
+0,le nguyen long,1.0,0.0,0,0.0,0.0,0,1,0
+0,vũ thé cuòng,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo van thao,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van tro,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham thanh long,1.0,0.0,0,0.0,0.0,0,1,0
+0,le nhi hong,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu ngoc can,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham thanh tung,1.0,0.0,0,0.0,0.0,0,1,0
+0,le dinh luong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen ngoc nhut,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen phuong dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham tuan anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hong an,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen huy thanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hoang anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran an quoc,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran phuong lan,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen cong hien,1.0,0.0,0,0.0,0.0,0,1,0
+0,dang quoc binh,1.0,0.0,0,0.0,0.0,0,1,0
+0,ho quang chinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang vinh thang,1.0,0.0,0,0.0,0.0,0,1,0
+0,"pham, thi my phuong",0.9375,0.0,0,0.0,0.0,0,1,0
+0,thaison dao,1.0,0.0,0,0.0,0.0,0,1,0
+0,duong van tu,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,vu quang binh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hoang viet,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan minh hieu,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo thị phuong anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen quoc truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen phuong kim,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi tuyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thanh ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,cap minh hat,1.0,0.0,0,0.0,0.0,0,1,0
+0,dao trung kien,1.0,0.0,0,0.0,0.0,0,1,0
+0,alan le,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tien dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen minh hai,1.0,0.0,0,0.0,0.0,0,1,0
+0,bach viet,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tien,1.0,0.0,0,0.0,0.0,0,1,0
+0,le thi thanh ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,duong toi,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,nguyen mai lan,1.0,0.0,0,0.0,0.0,0,1,0
+0,dang tran tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham cong hieu,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu lan miyuki,1.0,0.0,0,0.0,0.0,0,1,0
+0,kevin nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,le nguyen long,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen minh tam,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi nghia,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui-van-phuoc,0.8461538461538461,0.0,0,0.0,0.0,0,1,0
+0,luong le nam,1.0,0.0,0,0.0,0.0,0,1,0
+0,minh tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,johndotruong,1.0,0.0,0,0.0,0.0,0,1,0
+0,the reverend harry j bury phd,1.0,0.0,0,0.0,0.0,0,1,0
+0,jose vinas,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi thuy anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan huu duc,1.0,0.0,0,0.0,0.0,0,1,0
+0,vũ xuan hải,1.0,0.0,0,0.0,0.0,0,1,0
+0,le duc thang,1.0,0.0,0,0.0,0.0,0,1,0
+0,henry pham,1.0,0.0,0,0.0,0.0,0,1,0
+0,le chi hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,trinh gia kiet,1.0,0.0,0,0.0,0.0,0,1,0
+0,khoa tan nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,russell hoang tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham tran tung,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu quang truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen ah tuyet,1.0,0.0,0,0.0,0.0,0,1,0
+0,vo thi hoa ly,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyenvanquang,1.0,0.0,0,0.0,0.0,0,1,0
+0,dong tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran dinh cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngoc nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tuan trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan ky phung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thanh sanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham huy dang,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham toan thang,1.0,0.0,0,0.0,0.0,0,1,0
+0,j. nguyen,0.875,0.0,0,0.0,0.0,0,1,0
+0,lam le,1.0,0.0,0,0.0,0.0,0,1,0
+0,luu duy hao,1.0,0.0,0,0.0,0.0,0,1,0
+0,le tran quang vu,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen vu hieu,1.0,0.0,0,0.0,0.0,0,1,0
+0,diep bao dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi thanh hau,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang cong thuy,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen dai loc,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen viet trieu,1.0,0.0,0,0.0,0.0,0,1,0
+0,le van phan,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham huu hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen quoc,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hoai tuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham dang quynh,1.0,0.0,0,0.0,0.0,0,1,0
+0,huynh thanh phi,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duy minh,1.0,0.0,0,0.0,0.0,0,1,0
+0,dinh khoi nguyen,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,canh-dung tran,0.9230769230769231,0.0,0,0.0,0.0,0,1,0
+0,le chau an thuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,ton thất hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan quoc huy,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thanh tung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen quynh anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran phu tan,1.0,0.0,0,0.0,0.0,0,1,0
+0,le dieu linh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thanh hai,1.0,0.0,0,0.0,0.0,0,1,0
+0,ha minh thao,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi ngoc,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran tan loc,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham nhan long,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thi nhu thuy,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duy tu,1.0,0.0,0,0.0,0.0,0,1,0
+0,le quang vu,1.0,0.0,0,0.0,0.0,0,1,0
+0,son bach,1.0,0.0,0,0.0,0.0,0,1,0
+0,ly trong can,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,tony truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,le minh tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hong vinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,"chau, gia hao",0.9090909090909091,0.0,0,0.0,0.0,0,1,0
+0,vo cong duan,1.0,0.0,0,0.0,0.0,0,1,0
+0,anh t nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen huy thang,1.0,0.0,0,0.0,0.0,0,1,0
+0,karen bui,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hoang tuan vu,1.0,0.0,0,0.0,0.0,0,1,0
+0,chung thanh tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham van phuc,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan quoc tuyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,dam ha phu,1.0,0.0,0,0.0,0.0,0,1,0
+0,diane doan,1.0,0.0,0,0.0,0.0,0,1,0
+0,phanhong chuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,phuong nga pham,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,dao xuan tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,tai le,1.0,0.0,0,0.0,0.0,0,1,0
+0,luu chuong thien,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham phu cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran tuan tu,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen dinh vinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van dang son,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran nam nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen the trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,dao duc thinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo thanh ngan,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham hoang sam,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen bich thuy,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc huy,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen manh cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen bao thuy ngan,1.0,0.0,0,0.0,0.0,0,1,0
+0,chu minh tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,duong vu,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,nguyen thanh dat,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang ngoc khanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tuong thanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,ta thi hoai an,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang minh tuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi kim lan,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran binh,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui van khanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham van diep,1.0,0.0,0,0.0,0.0,0,1,0
+0,truong kinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi my nga,1.0,0.0,0,0.0,0.0,0,1,0
+0,duong thi phuong yen,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,kieu quoc thu,1.0,0.0,0,0.0,0.0,0,1,0
+0,tranthanhbinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu van duong,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,nguyen ngoc son,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran cao nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,phuong tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen minh khanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo anh tuyet,1.0,0.0,0,0.0,0.0,0,1,0
+0,luong van hai,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen nhien,1.0,0.0,0,0.0,0.0,0,1,0
+0,vo minh thinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran xuan vuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham thanh ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tai thuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen ngoc vinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,dang binh,1.0,0.0,0,0.0,0.0,0,1,0
+0,dang hai,1.0,0.0,0,0.0,0.0,0,1,0
+0,le hong phu,1.0,0.0,0,0.0,0.0,0,1,0
+0,nam nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen nhat long,1.0,0.0,0,0.0,0.0,0,1,0
+0,manh cuong nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van tien,1.0,0.0,0,0.0,0.0,0,1,0
+0,bien duc thang,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran minh tien,1.0,0.0,0,0.0,0.0,0,1,0
+0,le thi phuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham ngoc tung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van quang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen diep phuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,dan,1.0,0.0,0,0.0,0.0,0,1,0
+0,le thanh hoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham huy trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tran dang phu,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran huu toan,1.0,0.0,0,0.0,0.0,0,1,0
+0,truong chi tam,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran vu,1.0,0.0,0,0.0,0.0,0,1,0
+0,lu huynh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc ninh,1.0,0.0,0,0.0,0.0,0,1,0
+0,duong quang hanh-dzung,0.95,0.0,0,0.012345679012345678,0.0,0,1,0
+0,nguyen tuan hai,1.0,0.0,0,0.0,0.0,0,1,0
+0,tam nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,cao xuan an,1.0,0.0,0,0.0,0.0,0,1,0
+0,le thanh nhu,1.0,0.0,0,0.0,0.0,0,1,0
+0,le trung tinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tung le pham,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran nam thien,1.0,0.0,0,0.0,0.0,0,1,0
+0,truong dang tuan dat,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen cao tin,1.0,0.0,0,0.0,0.0,0,1,0
+0,genie nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,thanh tien nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran dai thang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi phuong kieu,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang ngoc truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,thinh nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,vi huu tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham minh vu,1.0,0.0,0,0.0,0.0,0,1,0
+0,thang n. dinh,0.9090909090909091,0.0,0,0.0,0.0,0,1,0
+0,phan sy trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo bao chau,1.0,0.0,0,0.0,0.0,0,1,0
+0,le khanh trang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van son,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen minh phat,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen chuong chi,1.0,0.0,0,0.0,0.0,0,1,0
+0,henry h. nguyen,0.9230769230769231,0.0,0,0.0,0.0,0,1,0
+0,hoang huy,1.0,0.0,0,0.0,0.0,0,1,0
+0,wesley phan,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran cong tam,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang duc,1.0,0.0,0,0.0,0.0,0,1,0
+0,tien phan,1.0,0.0,0,0.0,0.0,0,1,0
+0,ton that thuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang minh quang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen dao ngoc van,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc phuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen dang khoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguye thi phuong anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham duc duong,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,duong quang ky,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,nguyen xuan thuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,thi yen truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran quang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi kim cuc,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo duc minh,1.0,0.0,0,0.0,0.0,0,1,0
+0,quang nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thu lan,1.0,0.0,0,0.0,0.0,0,1,0
+0,le hong hanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,phuong ky trieu,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hong khoai,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thanh xuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,hien phan,1.0,0.0,0,0.0,0.0,0,1,0
+0,thanh chi le,1.0,0.0,0,0.0,0.0,0,1,0
+0,vo hoan my,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran ngoc xuyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi minh phuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thanh trac,1.0,0.0,0,0.0,0.0,0,1,0
+0,uy nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,dang xuan chau,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo viet hung nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham ngoc tung,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thi huong,1.0,0.0,0,0.0,0.0,0,1,0
+0,le van hanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,van tuan tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,hien bui,1.0,0.0,0,0.0,0.0,0,1,0
+0,trinh co,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi thuy vi,1.0,0.0,0,0.0,0.0,0,1,0
+0,le van,1.0,0.0,0,0.0,0.0,0,1,0
+0,bao nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,vo viet anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham tran dai,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,le xuan khoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,trinh hong ky,1.0,0.0,0,0.0,0.0,0,1,0
+0,le doan the,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui nguyen quang dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,john do,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van viet,1.0,0.0,0,0.0,0.0,0,1,0
+0,dan nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,tri manh nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,minh khanh nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,hanh mai,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang-van khan,0.9230769230769231,0.0,0,0.0,0.0,0,1,0
+0,huynh phi long,1.0,0.0,0,0.0,0.0,0,1,0
+0,dao dinh binh,1.0,0.0,0,0.0,0.0,0,1,0
+0,hung nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,anvan huynh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen-huu-an,0.8461538461538461,0.0,0,0.0,0.0,0,1,0
+0,vu lan phuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran phuoc loc,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen cu lan,1.0,0.0,0,0.0,0.0,0,1,0
+0,to oanh,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,doan ke thien,1.0,0.0,0,0.0,0.0,0,1,0
+0,huynh nguyen anh khoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang xuan bien,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran trung dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran anh dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan tram nhat quang,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran nang,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu trong thu,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc huy,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang thi thanh ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,truong huu hoan,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen huu hoang,1.0,0.0,0,0.0,0.0,0,1,0
+0,le ngoc minh,1.0,0.0,0,0.0,0.0,0,1,0
+0,dinh tri vo,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thi le huong,1.0,0.0,0,0.0,0.0,0,1,0
+0,tan duong,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,nguyen khac huy,1.0,0.0,0,0.0,0.0,0,1,0
+0,dinh duy ky,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran bao anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,le anh hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,le kim hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham ngoc dang,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang linh son,1.0,0.0,0,0.0,0.0,0,1,0
+0,tri nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,doàn thị minh thoan,1.0,0.0,0,0.0,0.0,0,1,0
+0,hong anh ngo,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo minh uy,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tri duc,1.0,0.0,0,0.0,0.0,0,1,0
+0,dung t tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham luu bang,1.0,0.0,0,0.0,0.0,0,1,0
+0,trinh ngoc khiet,1.0,0.0,0,0.0,0.0,0,1,0
+0,"vo, van nhut",0.9,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,ho le trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,vuong quoc tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen quoc chuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,dinh ngoc thu,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham trung thanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen  dang my,1.0,0.0,0,0.0,0.0,0,1,0
+0,trịnh hũu long,1.0,0.0,0,0.0,0.0,0,1,0
+0,ho huy cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen phuoc hoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen ly duy hao,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang the diem,1.0,0.0,0,0.0,0.0,0,1,0
+0,phu van pham,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tien dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,paul pham,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui phan thien giang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen thanh ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyẽn thanh trúc,1.0,0.0,0,0.0,0.0,0,1,0
+0,huy nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen anh cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen trung thanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang dang,1.0,0.0,0,0.0,0.0,0,1,0
+0,dangthi tam,1.0,0.0,0,0.0,0.0,0,1,0
+0,thi x nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan thanh khuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,"chau, gia hoa",0.9090909090909091,0.0,0,0.0,0.0,0,1,0
+0,hoa nguyen dinh giang,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham van ngoc,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen phuoc du chanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tràn van chín,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thi diem,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu duc viet,1.0,0.0,0,0.0,0.0,0,1,0
+0,dung thi tran,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,tran tat dat,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen khanh duong,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,pham van quang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen minh chinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran ngoc thach,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen xuan duc,1.0,0.0,0,0.0,0.0,0,1,0
+0,matsuda kimiaki,1.0,0.0,0,0.0,0.0,0,1,0
+0,phung thi huyen trang,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,thai van cau,1.0,0.0,0,0.0,0.0,0,1,0
+0,ngo thu lan,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham xuan yem,1.0,0.0,0,0.0,0.0,0,1,0
+0,chu van son,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu thi phuong oanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen manh hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen ngoc,1.0,0.0,0,0.0,0.0,0,1,0
+0,le duc luong,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham tan kiet,1.0,0.0,0,0.0,0.0,0,1,0
+0,thuy my,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran phuong ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc hoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van dung,1.0,0.0,0,0.0,0.0,0,1,0
+0,le thi ngoc diep,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyẽn minh sang,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen trong tin,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham cuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,andy le,1.0,0.0,0,0.0,0.0,0,1,0
+0,ha duong tuong,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,tran thanh chung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen quang nhan,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thi thu hien,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tam ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan van hoang,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu d. le,0.8333333333333334,0.0,0,0.0,0.0,0,1,0
+0,do xuan thuuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,dinh van huong,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu mai hiromi,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui xuan vuong,1.0,0.0,0,0.0,0.0,0,1,0
+0,tràn chí giang,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan van quyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang hoang mai,1.0,0.0,0,0.0,0.0,0,1,0
+0,le thi trang,1.0,0.0,0,0.0,0.0,0,1,0
+0,phan tran tuan anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran viet hai,1.0,0.0,0,0.0,0.0,0,1,0
+0,dang khac thieu,1.0,0.0,0,0.0,0.0,0,1,0
+0,le hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen nam hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoa n. huynh,0.9,0.0,0,0.0,0.0,0,1,0
+0,luu duc,1.0,0.0,0,0.0,0.0,0,1,0
+0,duong tan trung,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,dang tran tung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen mai chi,1.0,0.0,0,0.0,0.0,0,1,0
+0,huynh chanh bach,1.0,0.0,0,0.0,0.0,0,1,0
+0,alex cartier,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang tuan nghia,1.0,0.0,0,0.0,0.0,0,1,0
+0,mai pham,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen duc hao,1.0,0.0,0,0.0,0.0,0,1,0
+0,phùng hoài ngọc,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen anh khoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen nhuan hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen hoai nam,1.0,0.0,0,0.0,0.0,0,1,0
+0,vu van hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran van thuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham van hoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,le dúc anh,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran minh tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen quang huy,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang van nam,1.0,0.0,0,0.0,0.0,0,1,0
+0,johnny truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyẽn thị rảnh,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui quang trung,1.0,0.0,0,0.0,0.0,0,1,0
+0,hong tran,1.0,0.0,0,0.0,0.0,0,1,0
+0,hoang thi ha,1.0,0.0,0,0.0,0.0,0,1,0
+0,anh tuan nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,john taylor,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen tuan thinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen ngoc toan,1.0,0.0,0,0.0,0.0,0,1,0
+0,phuong nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,pham dong hai,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran dinh duy,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran ngoc duong,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,ha thach huong,1.0,0.0,0,0.0,0.0,0,1,0
+0,le huu duong,1.0,0.0,0,0.012345679012345678,0.0,0,1,0
+0,huan m dinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,ivee bongosia,1.0,0.0,0,0.0,0.0,0,1,0
+0,le duc,1.0,0.0,0,0.0,0.0,0,1,0
+0,le xuan quang,1.0,0.0,0,0.0,0.0,0,1,0
+0,choros slawomir,1.0,0.0,0,0.0,0.0,0,1,0
+0,dang lam toi,1.0,0.0,0,0.0,0.0,0,1,0
+0,cao xuan ly,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran minh ngoc,1.0,0.0,0,0.0,0.0,0,1,0
+0,bui tran dang khoa,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen quang huy,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran minh tram,1.0,0.0,0,0.0,0.0,0,1,0
+0,vo thi quynh lien,1.0,0.0,0,0.0,0.0,0,1,0
+0,phillip truong,1.0,0.0,0,0.0,0.0,0,1,0
+0,tin trung bui,1.0,0.0,0,0.0,0.0,0,1,0
+0,bach luu nguyen,1.0,0.0,0,0.0,0.0,0,1,0
+0,mai hoang,1.0,0.0,0,0.0,0.0,0,1,0
+0,dinh hong hiep,1.0,0.0,0,0.0,0.0,0,1,0
+0,le hoang tuan,1.0,0.0,0,0.0,0.0,0,1,0
+0,son ho,1.0,0.0,0,0.0,0.0,0,1,0
+0,ha binh minh,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen the chinh,1.0,0.0,0,0.0,0.0,0,1,0
+0,dac cu,1.0,0.0,0,0.0,0.0,0,1,0
+0,doan van hung,1.0,0.0,0,0.0,0.0,0,1,0
+0,huu ucmasvungtau,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran thi kim,1.0,0.0,0,0.0,0.0,0,1,0
+0,tran van khoan,1.0,0.0,0,0.0,0.0,0,1,0
+0,nghia,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen dúc toản,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen dat son,1.0,0.0,0,0.0,0.0,0,1,0
+0,nguyen van thanh,1.0,0.0,0,0.0,0.0,0,1,0
+0,do duy van,1.0,0.0,0,0.0,0.0,0,1,0
+0,charlie.l.dang,0.8571428571428571,0.0,0,0.0,0.0,0,1,0
+1,"58 bui vinh, phuong hoa tho dong, quan cam le, da nang",0.8837209302325582,0.046511627906976744,0,0.012345679012345678,0.0,2,0,1
+1,"so 2, khu pho binh quoi a, phuong binh chuan, tx thuan an, binh duong",0.9090909090909091,0.01818181818181818,0,0.04938271604938271,0.0,2,1,0
+1,"to 10, phuong quang phu, thanh pho quang ngai, quang ngai",0.8936170212765957,0.0425531914893617,0,0.024691358024691357,0.0,3,1,0
+1,"137b le dinh duong, phuong tan thanh, thanh pho tam ky, quang nam",0.8867924528301887,0.05660377358490566,0,0.024691358024691357,0.0,3,0,1
+1,"khu 2, xa doan tung, huyen thanh mien, hai duong",0.8974358974358975,0.02564102564102564,0,0.037037037037037035,0.0,2,1,0
+1,"1f duong 18c, phuong binh hung hoa a, quan binh tan, tp ho chi minh",0.8867924528301887,0.05660377358490566,0,0.037037037037037035,0.0,3,0,1
+1,"(tai nha ong le van thuong), thon hop thang, xa huong minh, huyen vu quang, ha tinh",0.9104477611940298,0.0,0,0.024691358024691357,0.0,0,0,0
+1,"ap tan phong (thua dat so 130, to ban do so 03), xa thanh thoi a, huyen mo cay nam, ben tre",0.8428571428571429,0.07142857142857142,0,0.06172839506172839,0.0,4,1,0
+1,"so nha 97/9/21 duong nguyen van linh, phuong tan an, tp.buon ma thuot, dac lac",0.828125,0.078125,0,0.037037037037037035,0.0,3,1,0
+1,"thon 2, xa truong xuan, huyen dak song, dak nong",0.8974358974358975,0.02564102564102564,0,0.024691358024691357,0.0,2,1,0
+1,"so 206, pho dinh cong ha, phuong dinh cong, quan hoang mai, ha noi",0.8679245283018868,0.05660377358490566,0,0.024691358024691357,0.0,4,1,0
+1,"lo l3 khu cong nghiep trang due, thuoc kkt dinh vu - cat hai, xa le loi, huyen an duong, hai phong",0.922077922077922,0.012987012987012988,0,0.04938271604938271,0.0,1,1,0
+1,"so 320, to 16, phuong thinh quang, quan dong da, ha noi",0.7954545454545454,0.11363636363636363,0,0.037037037037037035,0.0,4,1,0
+1,"so nha 5, ngo 48, pho le quang bi, khu cam khe b, phuong tu minh, thanh pho hai duong, hai duong",0.88,0.04,0,0.04938271604938271,0.0,3,1,0
+1,"so nha 30 bt3 duong doi nguyen khuyen, phuong phuc la, quan ha dong, ha noi",0.9,0.05,0,0.037037037037037035,0.0,3,1,0
+1,"so 183 duong ha giang, phuong 1, thanh pho bao loc, lam dong",0.8541666666666666,0.08333333333333333,0,0.037037037037037035,0.0,4,1,0
+1,"25/21a duong so 8, khu pho 1, phuong linh xuan, quan thu duc, tp ho chi minh",0.8166666666666667,0.1,0,0.04938271604938271,0.0,2,0,1
+1,"nha ong hoang manh thang, thon 2, xa ban vuoc, huyen bat xat, lao cai",0.9090909090909091,0.01818181818181818,0,0.024691358024691357,0.0,2,1,0
+1,"53/1b, khu vuc thanh my, phuong le binh, quan cai rang, can tho",0.8431372549019608,0.058823529411764705,0,0.024691358024691357,0.0,2,0,1
+1,"so 06 nguyen du, phuong phuoc hiep, thanh pho ba ria, ba ria - vung tau",0.8928571428571429,0.03571428571428571,0,0.024691358024691357,0.0,3,1,0
+1,"so 17a, ngo 38 duong quang trung, phuong la khe, quan ha dong, ha noi",0.8545454545454545,0.07272727272727272,0,0.037037037037037035,0.0,3,1,0
+1,"so nha 10, ngo 84 de la thanh, phuong phuong lien, quan dong da, ha noi",0.8571428571428571,0.07142857142857142,0,0.024691358024691357,0.0,3,1,0
+1,"so 73/2 huynh van luy, khu pho 3, phuong phu loi, thanh pho thu dau mot, binh duong",0.8636363636363636,0.06060606060606061,0,0.04938271604938271,0.0,3,1,0
+1,"so 38, to 3, kp 2, phuong tan hiep, thanh pho bien hoa, dong nai",0.82,0.08,0,0.04938271604938271,0.0,3,1,0
+1,"thon vung 5, xa pho thuan, huyen duc pho, quang ngai",0.9047619047619048,0.023809523809523808,0,0.024691358024691357,0.0,2,1,0
+1,"khu pho 4, phuong binh hung, thanh pho phan thiet, binh thuan",0.92,0.02,0,0.024691358024691357,0.0,2,1,0
+1,"quang truong, phuong hien nam, thanh pho hung yen, hung yen",0.9387755102040817,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"b11/2 quoc lo 50, ap 3, xa binh hung, huyen binh chanh, tp ho chi minh",0.8,0.10909090909090909,0,0.04938271604938271,0.0,3,1,0
+1,"so 37, pho thach lam, phuong tu minh, thanh pho hai duong, hai duong",0.8909090909090909,0.03636363636363636,0,0.037037037037037035,0.0,3,1,0
+1,"652 ton duc thang, to 57, phuong hoa khanh nam, quan lien chieu, da nang",0.8448275862068966,0.08620689655172414,0,0.024691358024691357,0.0,3,0,1
+1,"so 38, duong t4b, phuong tay thanh, quan tan phu, tp ho chi minh",0.8627450980392157,0.058823529411764705,0,0.04938271604938271,0.0,3,1,0
+1,"199, to 1, kv2, le hong phong, phuong tra an, quan binh thuy, can tho",0.8,0.09090909090909091,0,0.037037037037037035,0.0,3,0,1
+1,"so 68/22b duong pham thai buong, phuong 4, thanh pho vinh long, vinh long",0.85,0.08333333333333333,0,0.037037037037037035,0.0,3,1,0
+1,"168 quoc lo 49, xa phu thuong, huyen phu vang, thua thien - hue",0.82,0.1,0,0.037037037037037035,0.0,3,0,1
+1,"55/33 nguyen phuc chu, phuong 15, quan tan binh, tp ho chi minh",0.803921568627451,0.11764705882352941,0,0.024691358024691357,0.0,3,0,1
+1,"xa hung thinh, xa hung thinh, huyen tran yen, yen bai",0.9302325581395349,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"so 40, pho dai co viet, phuong le dai hanh, quan hai ba trung, ha noi",0.8888888888888888,0.037037037037037035,0,0.024691358024691357,0.0,3,1,0
+1,"112 bau cat, phuong 14, quan tan binh, tp ho chi minh",0.8095238095238095,0.11904761904761904,0,0.024691358024691357,0.0,3,0,1
+1,"c7, khu nha o hoa an, duong nguyen ai quoc, xa hoa an, thanh pho bien hoa, dong nai",0.9076923076923077,0.015384615384615385,0,0.037037037037037035,0.0,1,1,0
+1,"so 78c, duong nguyen thi minh khai, phuong hung binh, thanh pho vinh, nghe an",0.9047619047619048,0.031746031746031744,0,0.037037037037037035,0.0,3,1,0
+1,"so 40b duong nguyen thi dinh, phuong nhan chinh, quan thanh xuan, ha noi",0.9152542372881356,0.03389830508474576,0,0.037037037037037035,0.0,3,1,0
+1,"466c hau giang, phuong 12, quan 6, tp ho chi minh",0.7692307692307693,0.15384615384615385,0,0.024691358024691357,0.0,3,0,1
+1,"153 tran van quang, phuong 10, quan tan binh, tp ho chi minh",0.8333333333333334,0.10416666666666667,0,0.024691358024691357,0.0,3,0,1
+1,"16 an duong vuong, phuong nguyen van cu, thanh pho quy nhon, binh dinh",0.9122807017543859,0.03508771929824561,0,0.024691358024691357,0.0,2,0,1
+1,"so 391, to 21, kp 3, phuong long binh tan, thanh pho bien hoa, dong nai",0.8035714285714286,0.10714285714285714,0,0.04938271604938271,0.0,4,1,0
+1,"3o3/8 khu pho phuoc trung, thi tran phuoc hai, huyen dat do, ba ria - vung tau",0.8709677419354839,0.04838709677419355,0,0.037037037037037035,0.0,1,0,1
+1,"so nha 131, duong tran phu, xuan yen, phuong phuc thang, thi xa phuc yen, vinh phuc",0.8805970149253731,0.04477611940298507,0,0.037037037037037035,0.0,4,1,0
+1,"thon yen lich, xa dan tien, huyen khoai chau, hung yen",0.9318181818181818,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"381 le van sy, phuong 2, quan tan binh, tp ho chi minh",0.8333333333333334,0.09523809523809523,0,0.024691358024691357,0.0,3,0,1
+1,"lo b5-9 cum cong nghiep chau khe, phuong chau khe, thi xa tu son, bac ninh",0.8983050847457628,0.03389830508474576,0,0.024691358024691357,0.0,1,1,0
+1,"48/20 suong nguyet anh, phuong 2, thanh pho tan an, long an",0.8125,0.10416666666666667,0,0.012345679012345678,0.0,2,0,1
+1,"so 5, khu pho yen la 2, phuong tan hong, thi xa tu son, bac ninh",0.8775510204081632,0.04081632653061224,0,0.037037037037037035,0.0,2,1,0
+1,"303 chu van an, phuong 12, quan binh thanh, tp ho chi minh",0.8260869565217391,0.10869565217391304,0,0.024691358024691357,0.0,3,0,1
+1,"83 duong so 1, cu xa chu van an, phuong 26, quan binh thanh, tp ho chi minh",0.8448275862068966,0.08620689655172414,0,0.037037037037037035,0.0,3,0,1
+1,"16-18, pho trang thi, phuong hang trong, quan hoan kiem, ha noi",0.8269230769230769,0.07692307692307693,0,0.012345679012345678,0.0,2,0,1
+1,"khu 2, thi tran minh tan, huyen kinh mon, hai duong",0.9024390243902439,0.024390243902439025,0,0.04938271604938271,0.0,2,1,0
+1,"519b nguyen tri phuong, phuong 08, quan 10, tp ho chi minh",0.7872340425531915,0.14893617021276595,0,0.024691358024691357,0.0,3,0,1
+1,"so 12, ngach 3/36 cu chinh lan, phuong khuong mai, quan thanh xuan, ha noi",0.8333333333333334,0.08333333333333333,0,0.037037037037037035,0.0,3,1,0
+1,"so 42 luong van can, phuong 2, thanh pho vung tau, ba ria - vung tau",0.8679245283018868,0.05660377358490566,0,0.024691358024691357,0.0,3,1,0
+1,"217 duong thach lam, phuong phu thanh, quan tan phu, tp ho chi minh",0.8888888888888888,0.05555555555555555,0,0.037037037037037035,0.0,3,0,1
+1,"397 nguyen tat thanh, phuong thanh binh, quan hai chau, da nang",0.8846153846153846,0.057692307692307696,0,0.012345679012345678,0.0,3,0,1
+1,"13 ngo thoi nham, phuong thuan hoa, thanh pho hue, thua thien - hue",0.8888888888888888,0.037037037037037035,0,0.024691358024691357,0.0,2,0,1
+1,"15/60 co bac, phuong cau ong lanh, quan 1, tp ho chi minh",0.8,0.1111111111111111,0,0.024691358024691357,0.0,2,0,1
+1,"so 20 ngo 538 duong lang, phuong lang ha, quan dong da, ha noi",0.8367346938775511,0.10204081632653061,0,0.037037037037037035,0.0,4,1,0
+1,"so 1544c, khu pho my hiep, thi xa tan uyen, binh duong",0.8372093023255814,0.09302325581395349,0,0.04938271604938271,0.0,5,1,0
+1,"so 42f/492 thien loi, phuong vinh niem, quan le chan, hai phong",0.8269230769230769,0.09615384615384616,0,0.024691358024691357,0.0,3,1,0
+1,"03-n5 duong d8, cong ty thien loc (lo so 13a), khu do thi mo, phuong phu thu, quan cai rang, can tho",0.8227848101265823,0.0759493670886076,0,0.06172839506172839,0.0,3,0,1
+1,"so 238 to 17, ap 5, xa hau loc, huyen tam binh, vinh long",0.7727272727272727,0.13636363636363635,0,0.04938271604938271,0.0,4,1,0
+1,"nha tang le tinh thanh hoa, phuong dong ve, thanh pho thanh hoa, thanh hoa",0.95,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"52b ngo quyen, phuong hiep phu, quan 9, tp ho chi minh",0.8604651162790697,0.06976744186046512,0,0.024691358024691357,0.0,2,0,1
+1,"to 3, ap 94, quoc lo 20, km 92, xa tuc trung, huyen dinh quan, dong nai",0.7636363636363637,0.12727272727272726,0,0.06172839506172839,0.0,3,1,0
+1,"lo 1404-1405 duong xo viet nghe tinh, phuong hoa cuong nam, quan hai chau, da nang",0.8208955223880597,0.11940298507462686,0,0.037037037037037035,0.0,5,1,0
+1,"xa quy mong, xa quy mong, huyen tran yen, yen bai",0.9230769230769231,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"325/2 ap chanh 1, xa tan xuan, huyen hoc mon, tp ho chi minh",0.8085106382978723,0.10638297872340426,0,0.037037037037037035,0.0,3,0,1
+1,"so 58/11/15 tran quy cap, phuong my hai, tp. phan rang-thap cham, ninh thuan",0.7936507936507936,0.09523809523809523,0,0.024691358024691357,0.0,3,1,0
+1,"so 35, ngach 11b, ngo 332, duong hoang cong chat, phuong phu dien, quan bac tu liem, ha noi",0.821917808219178,0.0958904109589041,0,0.04938271604938271,0.0,4,1,0
+1,"thon de e, xa le loi, huyen hoanh bo, quang ninh",0.9210526315789473,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"416/11 duong quang ham, phuong 5, quan go vap, tp ho chi minh",0.7959183673469388,0.12244897959183673,0,0.037037037037037035,0.0,3,0,1
+1,"quoc lo 1a, thon lac tri, xa phu lac, huyen tuy phong, binh thuan",0.9038461538461539,0.019230769230769232,0,0.037037037037037035,0.0,2,1,0
+1,"so 95 duong thanh my, phuong 8, quan tan binh, tp ho chi minh",0.875,0.0625,0,0.04938271604938271,0.0,3,1,0
+1,"thon 2, thi tran dak doa, huyen dak doa, gia lai",0.8947368421052632,0.02631578947368421,0,0.037037037037037035,0.0,2,1,0
+1,"so 9 lo a, khu 7,2 ha, pho vinh phuc, phuong vinh phuc, quan ba dinh, ha noi",0.847457627118644,0.05084745762711865,0,0.04938271604938271,0.0,2,1,0
+1,"so nha 01, duong tran phu, to 24, phuong tran hung dao, thanh pho thai binh, thai binh",0.8695652173913043,0.057971014492753624,0,0.04938271604938271,0.0,3,1,0
+1,"413/7a bis nguyen kiem, phuong 09, quan phu nhuan, tp ho chi minh",0.8113207547169812,0.11320754716981132,0,0.024691358024691357,0.0,3,0,1
+1,"tang m, toa nha ttc, 19 duy tan, phuong dich vong hau, quan cau giay, ha noi",0.8833333333333333,0.03333333333333333,0,0.037037037037037035,0.0,3,1,0
+1,"so 208 duong ba trieu, khom 1, phuong 3, thanh pho bac lieu, bac lieu",0.8363636363636363,0.09090909090909091,0,0.04938271604938271,0.0,4,1,0
+1,"so 48, ngo 10 ho dac di, phuong nam dong, quan dong da, ha noi",0.8333333333333334,0.08333333333333333,0,0.024691358024691357,0.0,3,1,0
+1,"71 duong gia phu, phuong 13, quan 5, tp ho chi minh",0.8,0.125,0,0.037037037037037035,0.0,3,0,1
+1,"152/25a dien bien phu, phuong 25, quan binh thanh, tp ho chi minh",0.7924528301886793,0.1320754716981132,0,0.024691358024691357,0.0,3,0,1
+1,"143/49 lien khu 5-6, phuong binh hung hoa b, quan binh tan, tp ho chi minh",0.7966101694915254,0.11864406779661017,0,0.037037037037037035,0.0,3,0,1
+1,"so nha 5 ngo 179 doi can, phuong doi can, quan ba dinh, ha noi",0.8541666666666666,0.08333333333333333,0,0.024691358024691357,0.0,4,1,0
+1,"to 2, khu 6, phuong hong hai, thanh pho ha long, quang ninh",0.8723404255319149,0.0425531914893617,0,0.037037037037037035,0.0,2,1,0
+1,"34/36/5 cao lo, phuong 4, quan 8, tp ho chi minh",0.6842105263157895,0.18421052631578946,0,0.037037037037037035,0.0,2,0,1
+1,"99/4 trinh thi mieng, ap tam dong, xa thoi tam thon, huyen hoc mon, tp ho chi minh",0.8769230769230769,0.046153846153846156,0,0.04938271604938271,0.0,2,0,1
+1,"sn 117, duong ba trieu, khu 3, phuong bac son, thi xa sam son, thanh hoa",0.8421052631578947,0.07017543859649122,0,0.037037037037037035,0.0,4,1,0
+1,"duong hoang hoa tham, khu bo son, phuong vo cuong, thanh pho bac ninh, bac ninh",0.9375,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"so 99a phan dinh phung, phuong 1, thanh pho da lat, lam dong",0.875,0.0625,0,0.024691358024691357,0.0,3,1,0
+1,"ap song vinh, xa tan phuoc, huyen tan thanh, ba ria - vung tau",0.9183673469387755,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"54 truong quoc dung, phuong 10, quan phu nhuan, tp ho chi minh",0.86,0.08,0,0.024691358024691357,0.0,3,0,1
+1,"cong ty tnhh tea kyung vina, xom quan, xa minh duc, huyen tu ky, hai duong",0.9322033898305084,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"so nha 130, pho hoang sam, to 35, phuong nghia do, quan cau giay, ha noi",0.8245614035087719,0.08771929824561403,0,0.037037037037037035,0.0,4,1,0
+1,"so 9, lien ke 12 tai dinh cu ngo thi nham, phuong ha cau, quan ha dong, ha noi",0.8833333333333333,0.05,0,0.024691358024691357,0.0,3,1,0
+1,"so nha 366/31 go dau, phuong tan quy, quan tan phu, tp ho chi minh",0.8269230769230769,0.09615384615384616,0,0.037037037037037035,0.0,4,1,0
+1,"k196/26 tran cao van, phuong tam thuan, quan thanh khe, da nang",0.8269230769230769,0.09615384615384616,0,0.012345679012345678,0.0,3,1,0
+1,"ap thanh hoa, xa thanh phu, xa thanh phu, huyen co do, can tho",0.9183673469387755,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"350/38/6 le duc tho, phuong 6, quan go vap, tp ho chi minh",0.7391304347826086,0.15217391304347827,0,0.024691358024691357,0.0,3,0,1
+1,"43/3c khu pho mieu ba, thi tran can thanh, huyen can gio, tp ho chi minh",0.8771929824561403,0.05263157894736842,0,0.04938271604938271,0.0,2,0,1
+1,"so 10, duong so 7, khu pho thong nhat 1, phuong di an, tx di an, binh duong",0.8448275862068966,0.06896551724137931,0,0.037037037037037035,0.0,3,1,0
+1,"so 22a, ngo 158, duong nguyen son, phuong bo de, quan long bien, ha noi",0.8245614035087719,0.08771929824561403,0,0.037037037037037035,0.0,4,1,0
+1,"c5/20 duong pham hung, xa binh hung, huyen binh chanh, tp ho chi minh",0.875,0.05357142857142857,0,0.037037037037037035,0.0,2,1,0
+1,"104 ly thuong kiet, xa tra da, thanh pho pleiku, gia lai",0.8666666666666667,0.06666666666666667,0,0.012345679012345678,0.0,3,0,1
+1,"nha xuong so 37, xa tam an, huyen long thanh, dong nai",0.8837209302325582,0.046511627906976744,0,0.024691358024691357,0.0,3,1,0
+1,"696 tinh lo 43, kp 3, phuong tam binh, quan thu duc, tp ho chi minh",0.8076923076923077,0.11538461538461539,0,0.04938271604938271,0.0,3,0,1
+1,"p1002, w1, sunrise city - central, 25 nguyen huu tho, phuong tan hung, quan 7, tp ho chi minh",0.8,0.10666666666666667,0,0.024691358024691357,0.0,4,1,0
+1,"so 17a, ngach 108, ngo 553, duong giai phong, phuong giap bat, quan hoang mai, ha noi",0.7971014492753623,0.11594202898550725,0,0.04938271604938271,0.0,4,1,0
+1,"so nha 111, duong ngo quyen, phuong tan binh, thanh pho hai duong, hai duong",0.8870967741935484,0.04838709677419355,0,0.037037037037037035,0.0,4,1,0
+1,"thon xuyen duong, xa xuan duong, huyen thanh oai, ha noi",0.9347826086956522,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"280 nguyen duy trinh, phuong hoa hai, quan ngu hanh son, da nang",0.8846153846153846,0.057692307692307696,0,0.012345679012345678,0.0,3,0,1
+1,"29/11/42 le duc tho, phuong 7, quan go vap, tp ho chi minh",0.7391304347826086,0.15217391304347827,0,0.024691358024691357,0.0,2,0,1
+1,"thon van xa, xa bich son, huyen viet yen, bac giang",0.926829268292683,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"khu 5, phuong hai tan, thanh pho hai duong, hai duong",0.9069767441860465,0.023255813953488372,0,0.037037037037037035,0.0,2,1,0
+1,"so 20 le thai to, khu bo son, phuong vo cuong, thanh pho bac ninh, bac ninh",0.8983050847457628,0.03389830508474576,0,0.04938271604938271,0.0,3,1,0
+1,"xom 15, xa nghi trung, huyen nghi loc, nghe an",0.8648648648648649,0.05405405405405406,0,0.012345679012345678,0.0,3,1,0
+1,"117 duong so 3, cu xa do thanh, phuong 04, quan 3, tp ho chi minh",0.78,0.14,0,0.037037037037037035,0.0,3,0,1
+1,"22/17e huynh dinh hai, phuong 24, quan binh thanh, tp ho chi minh",0.8113207547169812,0.11320754716981132,0,0.024691358024691357,0.0,3,0,1
+1,"so 263, to 6, ap 3, xa phuong tra, huyen cao lanh, dong thap",0.7872340425531915,0.10638297872340426,0,0.04938271604938271,0.0,4,1,0
+1,"so 378/3a, khu pho thanh binh, phuong an thanh, tx thuan an, binh duong",0.8448275862068966,0.06896551724137931,0,0.04938271604938271,0.0,4,1,0
+1,"1135/20b huynh tan phat, kp3, phuong phu thuan, quan 7, tp ho chi minh",0.7719298245614035,0.14035087719298245,0,0.037037037037037035,0.0,4,0,1
+1,"so nha 87, to dan pho 1, phuong nam thanh, tp dien bien phu, dien bien",0.8727272727272727,0.05454545454545454,0,0.037037037037037035,0.0,3,1,0
+1,"so 23 duong tran quoc toan, khoi 13, phuong ha huy tap, thanh pho vinh, nghe an",0.873015873015873,0.06349206349206349,0,0.04938271604938271,0.0,3,1,0
+1,"so 18, duong dang thai mai xom 12, xa nghi kim, thanh pho vinh, nghe an",0.8571428571428571,0.07142857142857142,0,0.037037037037037035,0.0,3,1,0
+1,"so 365 cho hang, phuong du hang kenh, quan le chan, hai phong",0.8775510204081632,0.061224489795918366,0,0.024691358024691357,0.0,4,1,0
+1,"so 10 duong lac long quan, phuong tran quang dieu, thanh pho quy nhon, binh dinh",0.9230769230769231,0.03076923076923077,0,0.04938271604938271,0.0,3,1,0
+1,"780/37/180a binh gia, phuong 11, thanh pho vung tau, ba ria - vung tau",0.7192982456140351,0.17543859649122806,0,0.012345679012345678,0.0,3,0,1
+1,"14 duong 82, phuong 10, quan 6, tp ho chi minh",0.7222222222222222,0.19444444444444445,0,0.037037037037037035,0.0,3,0,1
+1,"khu pho ly tu trong, phuong 8, tp tuy hoa, phu yen",0.8974358974358975,0.02564102564102564,0,0.024691358024691357,0.0,2,1,0
+1,"so nha 400, duong hoang lien, phuong kim tan, thanh pho lao cai, lao cai",0.8793103448275862,0.05172413793103448,0,0.037037037037037035,0.0,4,1,0
+1,"thua dat so 299, to ban do so 08, khu pho phuoc hai, thi xa tan uyen, binh duong",0.8548387096774194,0.08064516129032258,0,0.07407407407407407,0.0,4,1,0
+1,"so 160 duong truong chinh, phuong le loi, thanh pho vinh, nghe an",0.8867924528301887,0.05660377358490566,0,0.037037037037037035,0.0,4,1,0
+1,"so 24 duong ngo quoc tri, khu vuc 3, phuong v, tp vi thanh, hau giang",0.8703703703703703,0.05555555555555555,0,0.04938271604938271,0.0,3,1,0
+1,"so 3 cong truong quoc te, phuong 06, quan 3, tp ho chi minh",0.8478260869565217,0.08695652173913043,0,0.037037037037037035,0.0,3,1,0
+1,"to 1, kp 5, duong nguyen trung truc, thi tran vinh an, huyen vinh cuu, dong nai",0.8888888888888888,0.031746031746031744,0,0.06172839506172839,0.0,2,1,0
+1,"khu 3, thi tran co to, huyen co to, quang ninh",0.8888888888888888,0.027777777777777776,0,0.04938271604938271,0.0,2,1,0
+1,"so 25, ngo 9, to 3, phuong duc thang, quan bac tu liem, ha noi",0.8125,0.08333333333333333,0,0.037037037037037035,0.0,3,1,0
+1,"so 311 duong phuc dien, phuong xuan phuong, quan nam tu liem, ha noi",0.8909090909090909,0.05454545454545454,0,0.037037037037037035,0.0,4,1,0
+1,"413/25 le van quoi, khu pho 5, phuong binh tri dong a, quan binh tan, tp ho chi minh",0.8333333333333334,0.09090909090909091,0,0.037037037037037035,0.0,3,0,1
+1,"thon ha la ha, xa phuoc thang, huyen bac ai, ninh thuan",0.9318181818181818,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"353/42 cach mang thang tam, phuong hoa tho dong, quan cam le, da nang",0.8392857142857143,0.08928571428571429,0,0.012345679012345678,0.0,3,0,1
+1,"so 95, tran phu, khom 2, phuong 1, thanh pho sa dec, dong thap",0.8163265306122449,0.08163265306122448,0,0.037037037037037035,0.0,3,1,0
+1,"so 25/2b, kp 3, phuong quang vinh, thanh pho bien hoa, dong nai",0.8235294117647058,0.0784313725490196,0,0.037037037037037035,0.0,3,1,0
+1,"so 73 pho cam, phuong gia vien, quan ngo quyen, hai phong",0.8913043478260869,0.043478260869565216,0,0.024691358024691357,0.0,3,1,0
+1,"66t cu xa phu lam d, phuong 10, quan 6, tp ho chi minh",0.8048780487804879,0.12195121951219512,0,0.024691358024691357,0.0,3,0,1
+1,"so 23 an trach, phuong quoc tu giam, quan dong da, ha noi",0.8888888888888888,0.044444444444444446,0,0.024691358024691357,0.0,3,1,0
+1,"so 4/12, khu pho nguyen trai, phuong lai thieu, tx thuan an, binh duong",0.8620689655172413,0.05172413793103448,0,0.04938271604938271,0.0,2,1,0
+1,"so 3 tran phu, ap tra quyt a, thi tran chau thanh, huyen chau thanh, soc trang",0.9193548387096774,0.016129032258064516,0,0.04938271604938271,0.0,2,1,0
+1,"thon bui xa, xa trung hoa, huyen yen my, hung yen",0.9230769230769231,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so 146 nguyen cong tru, phuong nguyen thai binh, quan 1, tp ho chi minh",0.8771929824561403,0.07017543859649122,0,0.037037037037037035,0.0,4,1,0
+1,"so 350, to 22, kp 3, phuong long binh tan, thanh pho bien hoa, dong nai",0.8035714285714286,0.10714285714285714,0,0.04938271604938271,0.0,4,1,0
+1,"lo 61,62 khu tdc a3, vien co cham den cong ty song thu, phuong binh thuan, quan hai chau, da nang",0.8701298701298701,0.06493506493506493,0,0.037037037037037035,0.0,3,1,0
+1,"a30/14, duong quoc lo 50, ap 1, xa binh hung, huyen binh chanh, tp ho chi minh",0.7903225806451613,0.11290322580645161,0,0.06172839506172839,0.0,3,1,0
+1,"385 xo viet nghe tinh, phuong 24, quan binh thanh, tp ho chi minh",0.8461538461538461,0.09615384615384616,0,0.024691358024691357,0.0,3,0,1
+1,"to dan pho thanh chau, phuong ninh giang, thi xa ninh hoa, khanh hoa",0.9454545454545454,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so 53/152, ngo xa dan 2, pho xa dan, phuong nam dong, quan dong da, ha noi",0.7931034482758621,0.10344827586206896,0,0.024691358024691357,0.0,3,1,0
+1,"so 4/4b, duong to 4,5,6, khu pho thong nhat 1, phuong di an, tx di an, binh duong",0.78125,0.09375,0,0.06172839506172839,0.0,2,1,0
+1,"phuoc hau 1, phuong 9, tp tuy hoa, phu yen",0.8484848484848485,0.06060606060606061,0,0.012345679012345678,0.0,2,1,0
+1,"so 26a, ngo 37, duong ha huy tap, phuong ha huy tap, thanh pho vinh, nghe an",0.85,0.06666666666666667,0,0.037037037037037035,0.0,3,1,0
+1,"ap binh cach, xa tan binh thanh, huyen cho gao, tien giang",0.9361702127659575,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"02 nguyen van troi, phuong hoa thuan dong, quan hai chau, da nang",0.9056603773584906,0.03773584905660377,0,0.012345679012345678,0.0,2,0,1
+1,"so 19, ngo 01 duong tran phu, phuong lien bao, thanh pho vinh yen, vinh phuc",0.8688524590163934,0.06557377049180328,0,0.037037037037037035,0.0,3,1,0
+1,"so 7a, ngo 466 hoang hoa tham, phuong buoi, quan tay ho, ha noi",0.84,0.08,0,0.024691358024691357,0.0,4,1,0
+1,"so 2a-dc 17, khu dan cu viet sing, ap 4, phuong an phu, tx thuan an, binh duong",0.8387096774193549,0.06451612903225806,0,0.06172839506172839,0.0,3,1,0
+1,"so 21 le phung hieu, phuong 5, thanh pho dong ha, quang tri",0.8723404255319149,0.06382978723404255,0,0.024691358024691357,0.0,3,1,0
+1,"so 5, ngo 9, duong phai ve, phuong dong kinh, thanh pho lang son, lang son",0.8813559322033898,0.03389830508474576,0,0.037037037037037035,0.0,2,1,0
+1,"to 20, khu phuoc thuan, thi tran long thanh, huyen long thanh, dong nai",0.896551724137931,0.034482758620689655,0,0.04938271604938271,0.0,3,1,0
+1,"1060/3 le van luong, ap 3, xa nhon duc, huyen nha be, tp ho chi minh",0.7924528301886793,0.11320754716981132,0,0.037037037037037035,0.0,4,0,1
+1,"so 206, ngo 54, duong ngoc hoi, phuong hoang liet, quan hoang mai, ha noi",0.8305084745762712,0.0847457627118644,0,0.037037037037037035,0.0,4,1,0
+1,"b4/15c ap 2, xa vinh loc a, huyen binh chanh, tp ho chi minh",0.8297872340425532,0.0851063829787234,0,0.037037037037037035,0.0,2,1,0
+1,"so nha 21, ngo 119 pho trung kinh, phuong trung hoa, quan cau giay, ha noi",0.847457627118644,0.0847457627118644,0,0.024691358024691357,0.0,4,1,0
+1,"lau 7, toa nha hpl, so 60 duong nguyen van thu, phuong da kao, quan 1, tp ho chi minh",0.8636363636363636,0.06060606060606061,0,0.07407407407407407,0.0,3,1,0
+1,"k548/47 ong ich khiem, phuong vinh trung, quan thanh khe, da nang",0.8333333333333334,0.09259259259259259,0,0.012345679012345678,0.0,3,1,0
+1,"tt co phuc, thi tran co phuc, huyen tran yen, yen bai",0.9285714285714286,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"so 20 trang tien, phuong trang tien, quan hoan kiem, ha noi",0.8958333333333334,0.041666666666666664,0,0.024691358024691357,0.0,3,1,0
+1,"so dg 04/14 tttm thi tran van dinh, thi tran van dinh, huyen ung hoa, ha noi",0.8666666666666667,0.06666666666666667,0,0.037037037037037035,0.0,3,1,0
+1,"to 12, phuong le hong phong, thanh pho quang ngai, quang ngai",0.9,0.04,0,0.024691358024691357,0.0,3,1,0
+1,"ap thi, thi tran cho moi, huyen cho moi, an giang",0.9230769230769231,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"so 17, ngo 8, ngach 11/36 duong le quang dao, phuong phu do, quan nam tu liem, ha noi",0.8059701492537313,0.1044776119402985,0,0.04938271604938271,0.0,3,1,0
+1,"thua dat so 273, 274, 305, to ban do so 12, khu pho vinh phu, thi xa tan uyen, binh duong",0.7536231884057971,0.15942028985507245,0,0.07407407407407407,0.0,4,1,0
+1,"8/8 duong so 12, ap 2a, xa tan thanh tay, huyen cu chi, tp ho chi minh",0.8148148148148148,0.09259259259259259,0,0.04938271604938271,0.0,3,0,1
+1,"lo a4.13-14, khu cong nghiep thanh thanh cong, xa an hoa, huyen trang bang, tay ninh",0.8405797101449275,0.07246376811594203,0,0.037037037037037035,0.0,4,1,0
+1,"khu do thi ha khanh a, phuong cao xanh, thanh pho ha long, quang ninh",0.9454545454545454,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"22/kc, to 2, kv binh duong a, phuong long tuyen, quan binh thuy, can tho",0.8448275862068966,0.05172413793103448,0,0.04938271604938271,0.0,2,0,1
+1,"175/15 nguyen van cong, phuong 3, quan go vap, tp ho chi minh",0.7959183673469388,0.12244897959183673,0,0.024691358024691357,0.0,3,0,1
+1,"51d duong giai phong, phuong 4, quan tan binh, tp ho chi minh",0.8775510204081632,0.061224489795918366,0,0.037037037037037035,0.0,2,0,1
+1,"so 37 duong nguyen van cu, phuong 1, thanh pho da lat, lam dong",0.88,0.06,0,0.037037037037037035,0.0,3,1,0
+1,"khu tai dinh cu, thon 4, xa quang phu, thanh pho thanh hoa, thanh hoa",0.9090909090909091,0.01818181818181818,0,0.037037037037037035,0.0,2,1,0
+1,"153 vo thanh trang, phuong 11, quan tan binh, tp ho chi minh",0.8333333333333334,0.10416666666666667,0,0.024691358024691357,0.0,3,0,1
+1,"c3/48/81a pham hung, xa binh hung, huyen binh chanh, tp ho chi minh",0.8181818181818182,0.09090909090909091,0,0.024691358024691357,0.0,2,1,0
+1,"so 153, to 3, pho hoa lam, phuong viet hung, quan long bien, ha noi",0.8301886792452831,0.07547169811320754,0,0.037037037037037035,0.0,4,1,0
+1,"thon 1, xa song luy, huyen bac binh, binh thuan",0.8947368421052632,0.02631578947368421,0,0.024691358024691357,0.0,2,1,0
+1,"so 30, ngo 135, pho phuc thinh, phuong phuc thanh, thanh pho ninh binh, ninh binh",0.8484848484848485,0.07575757575757576,0,0.024691358024691357,0.0,4,1,0
+1,"quyet tien, xa van con, huyen hoai duc, ha noi",0.918918918918919,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"588/37/16 huynh tan phat, phuong tan phu, quan 7, tp ho chi minh",0.75,0.15384615384615385,0,0.024691358024691357,0.0,3,0,1
+1,"so 116/27 nguyen thi minh khai, phuong my binh, tp. phan rang-thap cham, ninh thuan",0.8405797101449275,0.07246376811594203,0,0.024691358024691357,0.0,4,1,0
+1,"xom cau, xa thanh liet, huyen thanh tri, ha noi",0.9210526315789473,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"so 12, ngach 49, ngo 236, pho dai tu, phuong dai kim, quan hoang mai, ha noi",0.7833333333333333,0.11666666666666667,0,0.037037037037037035,0.0,4,1,0
+1,"so 527, duong bui huu nghia, kp 6, phuong long binh, thanh pho bien hoa, dong nai",0.8615384615384616,0.06153846153846154,0,0.04938271604938271,0.0,4,1,0
+1,"161b ly chinh thang, phuong 07, quan 3, tp ho chi minh",0.7906976744186046,0.13953488372093023,0,0.024691358024691357,0.0,3,0,1
+1,"ap my tuong, xa my duc tay, huyen cai be, tien giang",0.926829268292683,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"phong 1003 chung cu trung do, phuong hung dung, thanh pho vinh, nghe an",0.8793103448275862,0.06896551724137931,0,0.012345679012345678,0.0,5,1,0
+1,"so 581/79/6 duong mac cuu, khu pho huynh thuc khang, phuong vinh quang, thanh pho rach gia, kien giang",0.8571428571428571,0.07142857142857142,0,0.04938271604938271,0.0,4,1,0
+1,"so 8, nguyen kha trac, to 4, phuong mai dich, quan cau giay, ha noi",0.8679245283018868,0.03773584905660377,0,0.037037037037037035,0.0,2,1,0
+1,"so 06 ngach 117/71 ngo 117 thai ha, phuong trung liet, quan dong da, ha noi",0.7666666666666667,0.16666666666666666,0,0.037037037037037035,0.0,4,1,0
+1,"so 198, ap thuan tien, xa binh son, huyen hon dat, kien giang",0.8571428571428571,0.061224489795918366,0,0.037037037037037035,0.0,4,1,0
+1,"thon xuan giang, xa van thuy, huyen le thuy, quang binh",0.9333333333333333,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"to 12, khu vuc 5, phuong tran quang dieu, thanh pho quy nhon, binh dinh",0.8771929824561403,0.05263157894736842,0,0.037037037037037035,0.0,3,1,0
+1,"to 197, phuong an hai bac, quan son tra, da nang",0.8421052631578947,0.07894736842105263,0,0.024691358024691357,0.0,4,1,0
+1,"so 10 duong pasteur, phuong 4, thanh pho da lat, lam dong",0.8695652173913043,0.06521739130434782,0,0.037037037037037035,0.0,3,1,0
+1,"b4/22a1 quoc lo 50, ap 2, xa binh hung, huyen binh chanh, tp ho chi minh",0.7894736842105263,0.12280701754385964,0,0.04938271604938271,0.0,3,1,0
+1,"304 nguyen thong, phuong an thoi, quan binh thuy, can tho",0.8723404255319149,0.06382978723404255,0,0.012345679012345678,0.0,3,0,1
+1,"32 phan dinh phung, phuong tan thanh, quan tan phu, tp ho chi minh",0.9056603773584906,0.03773584905660377,0,0.024691358024691357,0.0,2,0,1
+1,"826 le van hien, phuong hoa hai, quan ngu hanh son, da nang",0.8723404255319149,0.06382978723404255,0,0.012345679012345678,0.0,3,0,1
+1,"ap ong trinh, xa tan phuoc, huyen tan thanh, ba ria - vung tau",0.9183673469387755,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"thon 7, xa duc bong, huyen vu quang, ha tinh",0.8857142857142857,0.02857142857142857,0,0.024691358024691357,0.0,2,1,0
+1,"thua dat so 271, to ban do so 46, ap cay chanh, xa tan dinh, huyen bac tan uyen, binh duong",0.8591549295774648,0.07042253521126761,0,0.07407407407407407,0.0,4,1,0
+1,"46/2, ap binh loi, thi tran tan tru, huyen tan tru, long an",0.8297872340425532,0.06382978723404255,0,0.037037037037037035,0.0,2,0,1
+1,"thon khanh nhon 2, xa nhon hai, huyen ninh hai, ninh thuan",0.9148936170212766,0.02127659574468085,0,0.024691358024691357,0.0,2,1,0
+1,"duong ho nguyen trung, thon 5, xa loc ninh, thanh pho dong hoi, quang binh",0.9166666666666666,0.016666666666666666,0,0.037037037037037035,0.0,2,1,0
+1,"so nha 064, duong ngo quyen, phuong kim tan, thanh pho lao cai, lao cai",0.8771929824561403,0.05263157894736842,0,0.037037037037037035,0.0,4,1,0
+1,"lo a9.1, kcn chon thanh, ap 2, xa thanh tam, huyen chon thanh, binh phuoc",0.847457627118644,0.05084745762711865,0,0.04938271604938271,0.0,3,1,0
+1,"d54 duong d1, phuong phu my, quan 7, tp ho chi minh",0.825,0.1,0,0.037037037037037035,0.0,2,1,0
+1,"3/26 ap 3, quoc lo 1a, xa tan quy tay, huyen binh chanh, tp ho chi minh",0.8181818181818182,0.09090909090909091,0,0.04938271604938271,0.0,2,0,1
+1,"lo b10-11 khu cong nghiep suoi dau, xa suoi tan, huyen cam lam, khanh hoa",0.864406779661017,0.06779661016949153,0,0.037037037037037035,0.0,2,1,0
+1,"nha ong mai duc toan, thon ba dong, phuong ky phuong, thi xa ky anh, ha tinh",0.9333333333333333,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"thon dai vy, xa lien ha, huyen dong anh, ha noi",0.918918918918919,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"808 phan dinh phung, phuong quang trung, thanh pho kon tum, kon tum",0.8909090909090909,0.05454545454545454,0,0.012345679012345678,0.0,3,0,1
+1,"lo a11.2, duong n5, kcn thanh thanh cong, xa an hoa, huyen trang bang, tay ninh",0.84375,0.0625,0,0.04938271604938271,0.0,4,1,0
+1,"51/7- 51/7a ong ich khiem, phuong 10, quan 11, tp ho chi minh",0.673469387755102,0.20408163265306123,0,0.024691358024691357,0.0,3,0,1
+1,"11 duong bo tay kinh cay kho, ap 1, xa phuoc loc, huyen nha be, tp ho chi minh",0.8833333333333333,0.05,0,0.04938271604938271,0.0,2,0,1
+1,"to dan pho 6, thi tran muong ang, huyen muong ang, dien bien",0.9166666666666666,0.020833333333333332,0,0.037037037037037035,0.0,2,1,0
+1,"so nha 132, duong ly thuong kiet, to 16b, phuong nguyen thai hoc, thanh pho yen bai, yen bai",0.8648648648648649,0.06756756756756757,0,0.04938271604938271,0.0,4,1,0
+1,"so 368, 369, ap an son, xa an dien, thi xa ben cat, binh duong",0.7708333333333334,0.125,0,0.04938271604938271,0.0,4,1,0
+1,"323/12 duong to ky, ap chanh 1, xa tan xuan, huyen hoc mon, tp ho chi minh",0.8103448275862069,0.10344827586206896,0,0.06172839506172839,0.0,3,0,1
+1,"so f6-01b ocean vista, km9 nguyen thong, phuong phu hai, thanh pho phan thiet, binh thuan",0.8783783783783784,0.05405405405405406,0,0.024691358024691357,0.0,2,1,0
+1,"tang 2 toa nha hh3, khu do thi my dinh-me tri, phuong my dinh 1, quan nam tu liem, ha noi",0.8840579710144928,0.043478260869565216,0,0.04938271604938271,0.0,2,1,0
+1,"480 trung nu vuong, phuong hoa thuan tay, quan hai chau, da nang",0.8846153846153846,0.057692307692307696,0,0.012345679012345678,0.0,3,0,1
+1,"k759/11 tran cao van, phuong thanh khe dong, quan thanh khe, da nang",0.8392857142857143,0.08928571428571429,0,0.012345679012345678,0.0,3,1,0
+1,"136 pho nghia dung, phuong phuc xa, quan ba dinh, ha noi",0.8666666666666667,0.06666666666666667,0,0.012345679012345678,0.0,3,0,1
+1,"757 ngo quyen, phuong an hai bac, quan son tra, da nang",0.8636363636363636,0.06818181818181818,0,0.012345679012345678,0.0,3,0,1
+1,"73/5e dinh phong phu, to 7, khu pho 1, phuong tang nhon phu b, quan 9, tp ho chi minh",0.8181818181818182,0.09090909090909091,0,0.06172839506172839,0.0,2,0,1
+1,"cum cong nghiep vinh hoa hung nam, ap 6, xa vinh hoa hung nam, huyen go quao, kien giang",0.9285714285714286,0.014285714285714285,0,0.024691358024691357,0.0,2,1,0
+1,"thon nguyen xa, xa nhan hoa, huyen my hao, hung yen",0.926829268292683,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so 8, ngach 236/49, pho dai tu, phuong dai kim, quan hoang mai, ha noi",0.7857142857142857,0.10714285714285714,0,0.037037037037037035,0.0,4,1,0
+1,"1648 vo van kiet, phuong 16, quan 8, tp ho chi minh",0.75,0.175,0,0.024691358024691357,0.0,4,0,1
+1,"so b15 ben dinh 3, phuong 9, thanh pho vung tau, ba ria - vung tau",0.8431372549019608,0.0784313725490196,0,0.024691358024691357,0.0,2,1,0
+1,"k66/11 ong ich duong, phuong hoa tho dong, quan cam le, da nang",0.8431372549019608,0.0784313725490196,0,0.024691358024691357,0.0,2,1,0
+1,"khom tay chin, thi tran lao bao, huyen huong hoa, quang tri",0.9375,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"so nha 55, duong pham van nghi, phuong dong thanh, thanh pho ninh binh, ninh binh",0.9090909090909091,0.030303030303030304,0,0.037037037037037035,0.0,3,1,0
+1,"thon xuan long, xa gia son, huyen nho quan, ninh binh",0.9302325581395349,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"so 15, ngo 17/2, pho huynh thuc khang, phuong lang ha, quan dong da, ha noi",0.8166666666666667,0.08333333333333333,0,0.024691358024691357,0.0,3,1,0
+1,"424 le loi, phuong nghia lo, thanh pho quang ngai, quang ngai",0.88,0.06,0,0.024691358024691357,0.0,3,0,1
+1,"so 59 nguyen tuan, phuong thanh xuan trung, quan thanh xuan, ha noi",0.9090909090909091,0.03636363636363636,0,0.024691358024691357,0.0,3,1,0
+1,"thon dong lam, xa dai quang, huyen dai loc, quang nam",0.9302325581395349,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"xom 10, xa van canh, huyen hoai duc, ha noi",0.8529411764705882,0.058823529411764705,0,0.012345679012345678,0.0,3,1,0
+1,"to 1, khu 8a, phuong quang hanh, thanh pho cam pha, quang ninh",0.88,0.04,0,0.037037037037037035,0.0,2,1,0
+1,"838/25 cach mang thang 8, phuong 5, quan tan binh, tp ho chi minh",0.7884615384615384,0.1346153846153846,0,0.024691358024691357,0.0,3,0,1
+1,"128/2a le dinh can, khu pho 10, phuong tan tao, quan binh tan, tp ho chi minh",0.819672131147541,0.09836065573770492,0,0.037037037037037035,0.0,3,0,1
+1,"so 374, ap thanh duc, xa long duc, huyen long phu, soc trang",0.8541666666666666,0.0625,0,0.037037037037037035,0.0,4,1,0
+1,"so 91, duong ha huy tap, thi tran cam xuyen, huyen cam xuyen, ha tinh",0.8909090909090909,0.03636363636363636,0,0.04938271604938271,0.0,3,1,0
+1,"so 15c, 18c, dai lo dong khoi, phuong phu khuong, thanh pho ben tre, ben tre",0.8524590163934426,0.06557377049180328,0,0.04938271604938271,0.0,3,1,0
+1,"8/5f xuan thoi thuong 7, ap 3, xa xuan thoi thuong, huyen hoc mon, tp ho chi minh",0.859375,0.0625,0,0.037037037037037035,0.0,2,0,1
+1,"xa cuong thinh, xa cuong thinh, huyen tran yen, yen bai",0.9333333333333333,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"134, quoc lo 91, ap binh hoa, thi tran cai dau, huyen chau phu, an giang",0.8245614035087719,0.08771929824561403,0,0.04938271604938271,0.0,3,0,1
+1,"281 ung van khiem, phuong 25, quan binh thanh, tp ho chi minh",0.8367346938775511,0.10204081632653061,0,0.024691358024691357,0.0,3,0,1
+1,"so 127 tam trinh, phuong mai dong, quan hoang mai, ha noi",0.8695652173913043,0.06521739130434782,0,0.024691358024691357,0.0,4,1,0
+1,"so 2/2/18a duong le thuc hoach, phuong phu tho hoa, quan tan phu, tp ho chi minh",0.859375,0.0625,0,0.04938271604938271,0.0,2,1,0
+1,"ap binh an, xa song binh, huyen cho gao, tien giang",0.926829268292683,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"tang 9, toa nha machinco, so 444, duong hoang hoa tham, phuong thuy khue, quan tay ho, ha noi",0.8666666666666667,0.05333333333333334,0,0.06172839506172839,0.0,4,1,0
+1,"to 20, thi tran lien nghia, huyen duc trong, lam dong",0.8837209302325582,0.046511627906976744,0,0.037037037037037035,0.0,3,1,0
+1,"5 nguyen gia thieu, phuong 06, quan 3, tp ho chi minh",0.8333333333333334,0.09523809523809523,0,0.024691358024691357,0.0,3,0,1
+1,"88 duong d2, phuong 25, quan binh thanh, tp ho chi minh",0.8181818181818182,0.11363636363636363,0,0.037037037037037035,0.0,3,0,1
+1,"so nha 50, to 4 tinh quang, phuong giang bien, quan long bien, ha noi",0.8727272727272727,0.05454545454545454,0,0.037037037037037035,0.0,3,1,0
+1,"thon phuoc trung, xa phuoc dong, thanh pho nha trang, khanh hoa",0.9423076923076923,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"thon bang xam, xa le loi, huyen hoanh bo, quang ninh",0.9285714285714286,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"thon phu thon, xa tan khanh, huyen vu ban, nam dinh",0.926829268292683,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so 31 lien ke 12 khu do thi van phu, phuong phu la, quan ha dong, ha noi",0.8727272727272727,0.07272727272727272,0,0.037037037037037035,0.0,3,1,0
+1,"9/5b duong 128, khu pho 4, phuong phuoc long a, quan 9, tp ho chi minh",0.7818181818181819,0.12727272727272726,0,0.04938271604938271,0.0,4,0,1
+1,"r4-45 duong hung phuoc 4, phuong tan phong, quan 7, tp ho chi minh",0.8301886792452831,0.09433962264150944,0,0.037037037037037035,0.0,2,1,0
+1,"lk3.4 vinaconex 21, ngo 804 duong quang trung, phuong phu la, quan ha dong, ha noi",0.8208955223880597,0.1044776119402985,0,0.024691358024691357,0.0,4,1,0
+1,"to 14, ap ong trinh, xa tan phuoc, huyen tan thanh, ba ria - vung tau",0.8703703703703703,0.037037037037037035,0,0.037037037037037035,0.0,3,1,0
+1,"xom 1, xa kim chinh, huyen kim son, ninh binh",0.8888888888888888,0.027777777777777776,0,0.012345679012345678,0.0,2,1,0
+1,"104 ap 2, xa my an, huyen thu thua, long an",0.7878787878787878,0.12121212121212122,0,0.037037037037037035,0.0,3,0,1
+1,"nha so 06, ngo 165, duong ha huy tap, phuong ha huy tap, thanh pho vinh, nghe an",0.8412698412698413,0.07936507936507936,0,0.037037037037037035,0.0,4,1,0
+1,"duong nguyen thi dinh, khu pho 2, thi tran vinh hung, huyen vinh hung, long an",0.9206349206349206,0.015873015873015872,0,0.04938271604938271,0.0,2,1,0
+1,"so 02 duong 179, phuong tan phu, quan 9, tp ho chi minh",0.7906976744186046,0.13953488372093023,0,0.04938271604938271,0.0,4,1,0
+1,"lau 1 saigonicom building, 490a dien bien phu, phuong 21, quan binh thanh, tp ho chi minh",0.863013698630137,0.0821917808219178,0,0.037037037037037035,0.0,4,1,0
+1,"122/4b, duong 3/2, phuong xuan khanh, quan ninh kieu, can tho",0.7647058823529411,0.11764705882352941,0,0.024691358024691357,0.0,3,0,1
+1,"so 30b huynh thuc khang, phuong 3, tp tuy hoa, phu yen",0.8604651162790697,0.06976744186046512,0,0.024691358024691357,0.0,3,1,0
+1,"khu tieu thu cong nghiep va lang nghe, phuong ninh phong, thanh pho ninh binh, ninh binh",0.9583333333333334,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so 6, ngo 188, to dan pho lien co, phuong dai mo, quan nam tu liem, ha noi",0.8421052631578947,0.07017543859649122,0,0.037037037037037035,0.0,4,1,0
+1,"so 86 duong ly tu trong, phuong bac ha, thanh pho ha tinh, ha tinh",0.9038461538461539,0.038461538461538464,0,0.037037037037037035,0.0,3,1,0
+1,"so nha 48, duong bui thi xuan, khoi 12, phuong trung do, thanh pho vinh, nghe an",0.859375,0.0625,0,0.04938271604938271,0.0,3,1,0
+1,"so 90 ngo 147 trieu khuc, xa tan trieu, huyen thanh tri, ha noi",0.84,0.1,0,0.024691358024691357,0.0,4,1,0
+1,"228b bach dang, phuong 24, quan binh thanh, tp ho chi minh",0.8297872340425532,0.10638297872340426,0,0.024691358024691357,0.0,3,0,1
+1,"so 4, ngo 2/35, duong hoang liet, phuong hoang liet, quan hoang mai, ha noi",0.8360655737704918,0.06557377049180328,0,0.037037037037037035,0.0,2,1,0
+1,"thua dat 153 , to ban do so 47 , khu 7, phuong phu hoa, thanh pho thu dau mot, binh duong",0.8382352941176471,0.08823529411764706,0,0.07407407407407407,0.0,4,1,0
+1,"490/49/31a huong lo 2, khu pho 2, phuong binh tri dong, quan binh tan, tp ho chi minh",0.7794117647058824,0.1323529411764706,0,0.04938271604938271,0.0,3,0,1
+1,"lo b3-27, duong ha huy tap, khu nam thien 3, phuong tan phong, quan 7, tp ho chi minh",0.835820895522388,0.07462686567164178,0,0.06172839506172839,0.0,2,1,0
+1,"363a, le van sy, phuong 2, quan tan binh, tp ho chi minh",0.8181818181818182,0.09090909090909091,0,0.024691358024691357,0.0,3,0,1
+1,"266/82/20 to hien thanh, phuong 15, quan 10, tp ho chi minh",0.6666666666666666,0.22916666666666666,0,0.037037037037037035,0.0,3,0,1
+1,"thon bac cuong, thi tran tho tang, huyen vinh tuong, vinh phuc",0.9411764705882353,0.0,0,0.04938271604938271,0.0,0,1,0
+1,"to 6, ap 4, xa cua can, huyen phu quoc, kien giang",0.8461538461538461,0.05128205128205128,0,0.037037037037037035,0.0,2,1,0
+1,"so 26, ngo 189 hoang hoa tham, phuong lieu giai, quan ba dinh, ha noi",0.8363636363636363,0.09090909090909091,0,0.024691358024691357,0.0,4,1,0
+1,"lo j7, duong so 5, kcn hai son (gd 3+4), xa duc hoa ha, huyen duc hoa, long an",0.8,0.06666666666666667,0,0.04938271604938271,0.0,2,1,0
+1,"tdp danggiarit b, thi tran lac duong, huyen lac duong, lam dong",0.9423076923076923,0.0,0,0.04938271604938271,0.0,0,1,0
+1,"10b suong nguyet anh, phuong ben thanh, quan 1, tp ho chi minh",0.88,0.06,0,0.024691358024691357,0.0,2,0,1
+1,"to 14 duong de, phuong vinh hoa, thanh pho nha trang, khanh hoa",0.9019607843137255,0.0392156862745098,0,0.037037037037037035,0.0,3,1,0
+1,"so 62/1a, ap 4, xa an vien, huyen trang bom, dong nai",0.7857142857142857,0.09523809523809523,0,0.037037037037037035,0.0,3,1,0
+1,"to 27, khom 3, phuong 6, thanh pho cao lanh, dong thap",0.813953488372093,0.09302325581395349,0,0.037037037037037035,0.0,3,1,0
+1,"so 69a, ngo 2, pho tay tra, phuong tran phu, quan hoang mai, ha noi",0.8490566037735849,0.05660377358490566,0,0.024691358024691357,0.0,3,1,0
+1,"144 duong phuong sai, phuong phuong sai, thanh pho nha trang, khanh hoa",0.8983050847457628,0.05084745762711865,0,0.024691358024691357,0.0,3,0,1
+1,"tang 1, so nha 196, le loi, phuong truong son, thi xa sam son, thanh hoa",0.8421052631578947,0.07017543859649122,0,0.037037037037037035,0.0,4,1,0
+1,"so 132m/2 khu pho 1, duong ha chuong, phuong trung my tay, quan 12, tp ho chi minh",0.8153846153846154,0.1076923076923077,0,0.06172839506172839,0.0,4,1,0
+1,"so 15 duong 51, khu tai dinh cu 50ha, phuong cat lai, quan 2, tp ho chi minh",0.8135593220338984,0.11864406779661017,0,0.06172839506172839,0.0,3,1,0
+1,"o7lk-20 duong so 8, khu do thi 5a, phuong 4, thanh pho soc trang, soc trang",0.8166666666666667,0.1,0,0.037037037037037035,0.0,2,1,0
+1,"120/12b ton that hiep, phuong 13, quan 11, tp ho chi minh",0.717391304347826,0.1956521739130435,0,0.024691358024691357,0.0,3,0,1
+1,"sn 039, pho quyet tien, phuong tan phong, thanh pho lai chau, lai chau",0.8771929824561403,0.05263157894736842,0,0.012345679012345678,0.0,4,1,0
+1,"nha ong su huu ninh, to dan pho long son, phuong ky long, thi xa ky anh, ha tinh",0.9354838709677419,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so 19 vsip ii-a, duong so 28, khu cong nghiep viet nam - sin, xa vinh tan, thi xa tan uyen, binh duong",0.8625,0.05,0,0.037037037037037035,0.0,3,1,0
+1,"so 28/4, ap thanh hoa, xa ho nai 3, huyen trang bom, dong nai",0.8125,0.08333333333333333,0,0.037037037037037035,0.0,3,1,0
+1,"so 18, ngach 32/2/32 duong buoi, phuong ngoc khanh, quan ba dinh, ha noi",0.7796610169491526,0.11864406779661017,0,0.04938271604938271,0.0,3,1,0
+1,"113 duong nguyen cao, khu pho my kim 1, phuong tan phong, quan 7, tp ho chi minh",0.8571428571428571,0.07936507936507936,0,0.04938271604938271,0.0,3,0,1
+1,"1b27/2 huong lo 80, ap 1, xa pham van hai, huyen binh chanh, tp ho chi minh",0.7966101694915254,0.11864406779661017,0,0.04938271604938271,0.0,3,0,1
+1,"so 11, ngo 330 duong dai mo, phuong dai mo, quan nam tu liem, ha noi",0.8301886792452831,0.09433962264150944,0,0.037037037037037035,0.0,4,1,0
+1,"673 thong nhat, phuong 13, quan go vap, tp ho chi minh",0.813953488372093,0.11627906976744186,0,0.024691358024691357,0.0,3,0,1
+1,"so nha 126, duong hai ba trung, phuong tho son, thanh pho viet tri, phu tho",0.8833333333333333,0.05,0,0.037037037037037035,0.0,4,1,0
+1,"so 7, ngach 24, ngo 376 khuong dinh, phuong ha dinh, quan thanh xuan, ha noi",0.819672131147541,0.09836065573770492,0,0.037037037037037035,0.0,4,1,0
+1,"so 195 duong ho thi nghiem, khu pho 5, thi tran an thoi, huyen phu quoc, kien giang",0.8787878787878788,0.06060606060606061,0,0.06172839506172839,0.0,4,1,0
+1,"so 131, ngo 521, duong truong dinh, phuong thinh liet, quan hoang mai, ha noi",0.8253968253968254,0.09523809523809523,0,0.037037037037037035,0.0,4,1,0
+1,"18 cong hoa, phuong 4, quan tan binh, tp ho chi minh",0.8536585365853658,0.07317073170731707,0,0.024691358024691357,0.0,2,0,1
+1,"to 12, phuong dong quang, thanh pho thai nguyen, thai nguyen",0.9,0.04,0,0.024691358024691357,0.0,3,1,0
+1,"239/14 duong bach dang, phuong 15, quan binh thanh, tp ho chi minh",0.7962962962962963,0.12962962962962962,0,0.037037037037037035,0.0,3,0,1
+1,"thon ngu cau, xa an thuong, huyen hoai duc, ha noi",0.925,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"thon xa, xa son dong, huyen hoai duc, ha noi",0.9142857142857143,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"lo dat so 11, cum cong nghiep lang nghe nam thanh ba, xa do son, huyen thanh ba, phu tho",0.9130434782608695,0.028985507246376812,0,0.037037037037037035,0.0,3,1,0
+1,"51 to huu, phuong hoa cuong nam, quan hai chau, da nang",0.8863636363636364,0.045454545454545456,0,0.024691358024691357,0.0,2,0,1
+1,"tang 1, toa nha packsimex, 52 dong du, phuong ben nghe, quan 1, tp ho chi minh",0.8548387096774194,0.06451612903225806,0,0.04938271604938271,0.0,3,1,0
+1,"1/3d to 3, ap hung lan, xa ba diem, huyen hoc mon, tp ho chi minh",0.84,0.06,0,0.04938271604938271,0.0,2,0,1
+1,"so 117/14/10 duong tran quy cap, phuong tu an, tp.buon ma thuot, dac lac",0.7796610169491526,0.11864406779661017,0,0.037037037037037035,0.0,4,1,0
+1,"so 77 nguyen dong chi, phuong nam hong, thi xa hong linh, ha tinh",0.9038461538461539,0.038461538461538464,0,0.024691358024691357,0.0,3,1,0
+1,"f11/13t3, to 21, ap 6, xa vinh loc a, huyen binh chanh, tp ho chi minh",0.7454545454545455,0.14545454545454545,0,0.04938271604938271,0.0,3,1,0
+1,"so 52 tran dang ninh, phuong dich vong, quan cau giay, ha noi",0.8979591836734694,0.04081632653061224,0,0.024691358024691357,0.0,3,1,0
+1,"ap long loi, xa long hung, huyen chau thanh, tien giang",0.9333333333333333,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"3/27 a1 hem 28, duong dong hung thuan 3, khu pho 5, phuong tan hung thuan, quan 12, tp ho chi minh",0.7922077922077922,0.12987012987012986,0,0.06172839506172839,0.0,3,0,1
+1,"so 33 - 35, duong 3/2 khu vuc 3, phuong v, tp vi thanh, hau giang",0.74,0.14,0,0.04938271604938271,0.0,3,1,0
+1,"so nha 48, khu pho 2, thi tran quang xuong, huyen quang xuong, thanh hoa",0.8793103448275862,0.05172413793103448,0,0.04938271604938271,0.0,3,1,0
+1,"so 33, xo viet nghe tinh, phuong 7, thanh pho da lat, lam dong",0.8571428571428571,0.061224489795918366,0,0.024691358024691357,0.0,3,1,0
+1,"thon thai phu, xa mai dinh, huyen soc son, ha noi",0.9230769230769231,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"3/89b ap dinh, xa tan xuan, huyen hoc mon, tp ho chi minh",0.8444444444444444,0.06666666666666667,0,0.037037037037037035,0.0,2,0,1
+1,"702a toa nha rubyland- 04 le quat, phuong tan thoi hoa, quan tan phu, tp ho chi minh",0.8656716417910447,0.07462686567164178,0,0.037037037037037035,0.0,3,0,1
+1,"so 178 khuong dinh, phuong ha dinh, quan thanh xuan, ha noi",0.875,0.0625,0,0.024691358024691357,0.0,4,1,0
+1,"108/5 phan van hon, ap 5, xa xuan thoi thuong, huyen hoc mon, tp ho chi minh",0.8333333333333334,0.08333333333333333,0,0.037037037037037035,0.0,3,0,1
+1,"so 5, to 33b, ngo 42, pho trieu khuc, phuong thanh xuan nam, quan thanh xuan, ha noi",0.835820895522388,0.07462686567164178,0,0.037037037037037035,0.0,3,1,0
+1,"so nhah 35, tran nhan tong, pho 4, phuong quang hung, thanh pho thanh hoa, thanh hoa",0.8823529411764706,0.04411764705882353,0,0.024691358024691357,0.0,3,1,0
+1,"377 no trang long, phuong 13, quan binh thanh, tp ho chi minh",0.8367346938775511,0.10204081632653061,0,0.024691358024691357,0.0,3,0,1
+1,"so 157, quoc lo 63, khu pho 3, thi tran thu ba, huyen an bien, kien giang",0.8070175438596491,0.10526315789473684,0,0.06172839506172839,0.0,4,1,0
+1,"so 14, ngach 210/3, duong hoang van thai, phuong khuong mai, quan thanh xuan, ha noi",0.8260869565217391,0.08695652173913043,0,0.04938271604938271,0.0,4,1,0
+1,"74 le trung nghia, phuong 12, quan tan binh, tp ho chi minh",0.851063829787234,0.0851063829787234,0,0.024691358024691357,0.0,3,0,1
+1,"to 2, ap rach ham, xa ham ninh, huyen phu quoc, kien giang",0.8913043478260869,0.021739130434782608,0,0.037037037037037035,0.0,2,1,0
+1,"292/6 khu pho phuoc loc, thi tran phuoc buu, huyen xuyen moc, ba ria - vung tau",0.8571428571428571,0.06349206349206349,0,0.037037037037037035,0.0,3,0,1
+1,"phong 402, toa nha gt, so 403 nguyen thai binh, phuong 12, quan tan binh, tp ho chi minh",0.8142857142857143,0.11428571428571428,0,0.04938271604938271,0.0,4,1,0
+1,"86/9a, cach mang thang tam, phuong bui huu nghia, quan binh thuy, can tho",0.8666666666666667,0.05,0,0.012345679012345678,0.0,2,0,1
+1,"266/1 vo van kiet, phuong co giang, quan 1, tp ho chi minh",0.8043478260869565,0.10869565217391304,0,0.024691358024691357,0.0,3,0,1
+1,"trang trai kieu gia trang, xom nam xuan son, xa ky son, huyen ky anh, ha tinh",0.9344262295081968,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"to 2, ap ong lang, xa cua duong, huyen phu quoc, kien giang",0.8936170212765957,0.02127659574468085,0,0.04938271604938271,0.0,2,1,0
+1,"so 17, duong so 4, khu tai dinh cu tan an 1, to 29, khu 6, phuong tan an, thanh pho thu dau mot, binh duong",0.8292682926829268,0.08536585365853659,0,0.04938271604938271,0.0,3,1,0
+1,"khoi 13, phuong quang trung, thanh pho vinh, nghe an",0.8837209302325582,0.046511627906976744,0,0.024691358024691357,0.0,3,1,0
+1,"ap hau hoa, xa hau thanh, huyen cai be, tien giang",0.925,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"438 tan ky tan quy, phuong son ky, quan tan phu, tp ho chi minh",0.8775510204081632,0.061224489795918366,0,0.024691358024691357,0.0,3,0,1
+1,"so 225 nguyen trung truc, phuong 2, thanh pho soc trang, soc trang",0.8703703703703703,0.07407407407407407,0,0.024691358024691357,0.0,4,1,0
+1,"so 101, ap xom den, xa tan my, huyen bac tan uyen, binh duong",0.8541666666666666,0.0625,0,0.04938271604938271,0.0,4,1,0
+1,"so 2 ngo 16 duong hoang cau, phuong o cho dua, quan dong da, ha noi",0.8846153846153846,0.057692307692307696,0,0.037037037037037035,0.0,3,1,0
+1,"253/19 nguyen hoang, phuong binh hien, quan hai chau, da nang",0.8235294117647058,0.09803921568627451,0,0.012345679012345678,0.0,3,0,1
+1,"119 tran huu trang, phuong 10, quan phu nhuan, tp ho chi minh",0.8367346938775511,0.10204081632653061,0,0.024691358024691357,0.0,3,0,1
+1,"so 46, ngo 7, le trong tan, phuong la khe, quan ha dong, ha noi",0.8367346938775511,0.061224489795918366,0,0.024691358024691357,0.0,3,1,0
+1,"2867/68/15 quoc lo 1a, khu pho 6a, phuong tan thoi nhat, quan 12, tp ho chi minh",0.71875,0.1875,0,0.04938271604938271,0.0,4,0,1
+1,"so 580 tran hung dao, phuong duc long, thanh pho phan thiet, binh thuan",0.896551724137931,0.05172413793103448,0,0.024691358024691357,0.0,4,1,0
+1,"so 7, ngo 487/1, pho kim nguu, phuong vinh tuy, quan hai ba trung, ha noi",0.8103448275862069,0.08620689655172414,0,0.024691358024691357,0.0,4,1,0
+1,"so nha 1, ngach 173/84 duong hoang hoa tham, phuong ngoc ha, quan ba dinh, ha noi",0.8307692307692308,0.09230769230769231,0,0.04938271604938271,0.0,4,1,0
+1,"so 98, vo van kiet, phuong an thanh, thi xa hong ngu, dong thap",0.88,0.04,0,0.024691358024691357,0.0,3,1,0
+1,"so 028, duong yet kieu, phuong kim tan, thanh pho lao cai, lao cai",0.8679245283018868,0.05660377358490566,0,0.037037037037037035,0.0,4,1,0
+1,"so 1 to dan pho luong khe 4, phuong trang cat, quan hai an, hai phong",0.9074074074074074,0.037037037037037035,0,0.037037037037037035,0.0,2,1,0
+1,"41/34 go cat, phuong phu huu, quan 9, tp ho chi minh",0.7804878048780488,0.12195121951219512,0,0.024691358024691357,0.0,2,0,1
+1,"duong vo van kiet, ap tan cuong, xa phu cuong, huyen tam nong, dong thap",0.9310344827586207,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"216 duong so 04, phuong linh trung, quan thu duc, tp ho chi minh",0.8431372549019608,0.09803921568627451,0,0.037037037037037035,0.0,3,0,1
+1,"so 40 ngach 42/30 ngo 291 duong lac long quan, to 3, phuong nghia do, quan cau giay, ha noi",0.7916666666666666,0.1388888888888889,0,0.06172839506172839,0.0,4,1,0
+1,"tang 2 toa nha trung yen , duong vu pham ham, phuong yen hoa, quan cau giay, ha noi",0.9230769230769231,0.015384615384615385,0,0.04938271604938271,0.0,2,1,0
+1,"753 nguyen kiem, phuong 3, quan go vap, tp ho chi minh",0.8372093023255814,0.09302325581395349,0,0.024691358024691357,0.0,3,0,1
+1,"xom 9, xa xuan dai, huyen xuan truong, nam dinh",0.8947368421052632,0.02631578947368421,0,0.012345679012345678,0.0,2,1,0
+1,"109/f7 ben van don, phuong 09, quan 4, tp ho chi minh",0.7380952380952381,0.16666666666666666,0,0.024691358024691357,0.0,3,0,1
+1,"so 31 tinh lo 8, ap giong chua, thi tran tran de, huyen tran de, soc trang",0.8793103448275862,0.05172413793103448,0,0.06172839506172839,0.0,3,1,0
+1,"to dan pho 16, thi tran phuoc an, huyen krong pak, dac lac",0.8913043478260869,0.043478260869565216,0,0.037037037037037035,0.0,3,1,0
+1,"427/32 le van quoi, khu pho 5, phuong binh tri dong a, quan binh tan, tp ho chi minh",0.8333333333333334,0.09090909090909091,0,0.037037037037037035,0.0,3,0,1
+1,"so 14/1 duong 3/4, phuong 3, thanh pho da lat, lam dong",0.75,0.13636363636363635,0,0.037037037037037035,0.0,3,1,0
+1,"so 8-b2 tap the cong ty tu van xay dung dien 1, phuong thanh xuan nam, quan thanh xuan, ha noi",0.9054054054054054,0.04054054054054054,0,0.024691358024691357,0.0,2,1,0
+1,"so 45, duong dien bien phu, phuong ninh son, thanh pho tay ninh, tay ninh",0.8983050847457628,0.03389830508474576,0,0.037037037037037035,0.0,3,1,0
+1,"so nha 467, duong ly thuong kiet, phuong le hong phong, thanh pho phu ly, ha nam",0.890625,0.046875,0,0.037037037037037035,0.0,4,1,0
+1,"78 hung vuong, phuong loc tho, thanh pho nha trang, khanh hoa",0.9,0.04,0,0.012345679012345678,0.0,2,0,1
+1,"so 444 hoang hoa tham, phuong thuy khue, quan tay ho, ha noi",0.875,0.0625,0,0.024691358024691357,0.0,4,1,0
+1,"51d duong giai phong, phuong 4, quan tan binh, tp ho chi minh",0.8775510204081632,0.061224489795918366,0,0.037037037037037035,0.0,2,0,1
+1,"so 307 hoang hoa tham, phuong lieu giai, quan ba dinh, ha noi",0.8775510204081632,0.061224489795918366,0,0.024691358024691357,0.0,4,1,0
+1,"305/35 tan son nhi, phuong tan son nhi, quan tan phu, tp ho chi minh",0.8333333333333334,0.09259259259259259,0,0.024691358024691357,0.0,3,0,1
+1,"453/48 le van sy, phuong 12, quan 3, tp ho chi minh",0.7,0.2,0,0.024691358024691357,0.0,3,0,1
+1,"to 7, khu pho luong tay, thi tran luong son, huyen bac binh, binh thuan",0.9122807017543859,0.017543859649122806,0,0.04938271604938271,0.0,2,1,0
+1,"130/10 cong lo, phuong 15, quan tan binh, tp ho chi minh",0.7555555555555555,0.15555555555555556,0,0.037037037037037035,0.0,3,0,1
+1,"29 nai nghia 3, phuong nai hien dong, quan son tra, da nang",0.8723404255319149,0.06382978723404255,0,0.012345679012345678,0.0,2,0,1
+1,"to 6, khu tan lap 3, phuong cam thuy, thanh pho cam pha, quang ninh",0.8867924528301887,0.03773584905660377,0,0.037037037037037035,0.0,2,1,0
+1,"so 16, ngo long giang, pho giai phong, phuong giap bat, quan hoang mai, ha noi",0.8888888888888888,0.031746031746031744,0,0.024691358024691357,0.0,3,1,0
+1,"74 duong tinh lo 831, ap kinh moi, xa vinh thuan, huyen vinh hung, long an",0.847457627118644,0.0847457627118644,0,0.04938271604938271,0.0,4,0,1
+1,"1.05 lo h chung cu dong dieu, duong cao lo, phuong 4, quan 8, tp ho chi minh",0.8305084745762712,0.0847457627118644,0,0.04938271604938271,0.0,4,0,1
+1,"so 11/19, khu pho binh phuoc b, phuong binh chuan, tx thuan an, binh duong",0.85,0.06666666666666667,0,0.04938271604938271,0.0,3,1,0
+1,"tang 5, toa nha hcmcc, so 249a thuy khue, phuong thuy khue, quan tay ho, ha noi",0.8571428571428571,0.06349206349206349,0,0.04938271604938271,0.0,4,1,0
+1,"127 thai thi boi, phuong chinh gian, quan thanh khe, da nang",0.8775510204081632,0.061224489795918366,0,0.012345679012345678,0.0,3,0,1
+1,"12 einstein, khu pho 4, phuong binh tho, quan thu duc, tp ho chi minh",0.8727272727272727,0.05454545454545454,0,0.037037037037037035,0.0,2,0,1
+1,"so 32, ngo 477, duong nguyen trai, phuong thanh xuan nam, quan thanh xuan, ha noi",0.8484848484848485,0.07575757575757576,0,0.037037037037037035,0.0,4,1,0
+1,"khu pho chi duc, thi tran chi thanh, huyen tuy an, phu yen",0.9347826086956522,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"so 6 to dan pho dong ba 2, phuong thuong cat, quan bac tu liem, ha noi",0.9074074074074074,0.037037037037037035,0,0.037037037037037035,0.0,2,1,0
+1,"khom 5, phuong ho phong, thi xa gia rai, bac lieu",0.8974358974358975,0.02564102564102564,0,0.024691358024691357,0.0,2,1,0
+1,"so 1 ngo 1137 de la thanh, phuong ngoc khanh, quan ba dinh, ha noi",0.8461538461538461,0.09615384615384616,0,0.024691358024691357,0.0,5,1,0
+1,"25 duong so 1, khu pho 4, phuong an phu, quan 2, tp ho chi minh",0.8125,0.10416666666666667,0,0.04938271604938271,0.0,2,0,1
+1,"to 2, khu 8, xa viet hung, thanh pho ha long, quang ninh",0.8636363636363636,0.045454545454545456,0,0.037037037037037035,0.0,2,1,0
+1,"so 36 duong 31f, phuong an phu, quan 2, tp ho chi minh",0.8095238095238095,0.11904761904761904,0,0.04938271604938271,0.0,3,1,0
+1,"ap tan bang, xa phong lac, huyen tran van thoi, ca mau",0.9302325581395349,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"xom 1, xa lai yen, huyen hoai duc, ha noi",0.875,0.03125,0,0.012345679012345678,0.0,2,1,0
+1,"phong 601, toa nha a2, duong au co, phuong kinh bac, thanh pho bac ninh, bac ninh",0.8615384615384616,0.06153846153846154,0,0.037037037037037035,0.0,4,1,0
+1,"duong nguyen du, phuong quang trung, thanh pho uong bi, quang ninh",0.9454545454545454,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"ap thanh b (thua dat so 86, to ban do so 16), xa tan phong, huyen thanh phu, ben tre",0.8461538461538461,0.06153846153846154,0,0.06172839506172839,0.0,3,1,0
+1,"duy duong, xa trung luong, huyen binh luc, ha nam",0.925,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"tang 1, toa nha packsimex, so 52 dong du, phuong ben nghe, quan 1, tp ho chi minh",0.859375,0.0625,0,0.06172839506172839,0.0,3,1,0
+1,"so 259 nguyen van cu, phuong ngoc lam, quan long bien, ha noi",0.8775510204081632,0.061224489795918366,0,0.024691358024691357,0.0,4,1,0
+1,"f1/19k, to 1, ap 6, xa vinh loc a, huyen binh chanh, tp ho chi minh",0.7884615384615384,0.09615384615384616,0,0.04938271604938271,0.0,2,1,0
+1,"so nha 111, to 6, khu 3, phuong tran hung dao, thanh pho ha long, quang ninh",0.8333333333333334,0.08333333333333333,0,0.04938271604938271,0.0,4,1,0
+1,"169, vo nguyen giap, phuong phu thu, quan cai rang, can tho",0.8541666666666666,0.0625,0,0.012345679012345678,0.0,3,0,1
+1,"xa huong dien, xa huong dien, huyen vu quang, ha tinh",0.9302325581395349,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"thon thai phu, xa mai dinh, huyen soc son, ha noi",0.9230769230769231,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"152/33 ly thanh tong, phuong hiep tan, quan tan phu, tp ho chi minh",0.8333333333333334,0.09259259259259259,0,0.024691358024691357,0.0,3,0,1
+1,"thon tho tan, xa tam ngoc, thanh pho tam ky, quang nam",0.9302325581395349,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so nha 3, to 16c, phuong huong son, thanh pho thai nguyen, thai nguyen",0.8771929824561403,0.05263157894736842,0,0.037037037037037035,0.0,3,1,0
+1,"64h duong van nga, phuong vinh hai, thanh pho nha trang, khanh hoa",0.9074074074074074,0.037037037037037035,0,0.024691358024691357,0.0,2,0,1
+1,"60 dam rong 2, phuong thanh binh, quan hai chau, da nang",0.8666666666666667,0.06666666666666667,0,0.012345679012345678,0.0,2,0,1
+1,"31 truong dinh, phuong ben thanh, quan 1, tp ho chi minh",0.8666666666666667,0.06666666666666667,0,0.024691358024691357,0.0,2,0,1
+1,"so 1372, duong dong khoi, kp 3, phuong trang dai, thanh pho bien hoa, dong nai",0.8412698412698413,0.07936507936507936,0,0.06172839506172839,0.0,5,1,0
+1,"92c duong tran van muoi, ap 3, xa xuan thoi son, huyen hoc mon, tp ho chi minh",0.8852459016393442,0.04918032786885246,0,0.04938271604938271,0.0,2,0,1
+1,"80/11/8 duong tx52, phuong thanh xuan, quan 12, tp ho chi minh",0.7254901960784313,0.17647058823529413,0,0.04938271604938271,0.0,3,0,1
+1,"lo oa12 duong gs01, khu pho tay b, phuong dong hoa, tx di an, binh duong",0.8596491228070176,0.07017543859649122,0,0.04938271604938271,0.0,2,1,0
+1,"thon minh khai, thi tran nhu quynh, huyen van lam, hung yen",0.9375,0.0,0,0.037037037037037035,0.0,0,1,0
+1,"to dan pho 8, phuong ninh hiep, thi xa ninh hoa, khanh hoa",0.9130434782608695,0.021739130434782608,0,0.024691358024691357,0.0,2,1,0
+1,"57 duong so 6, khu dan cu phuoc kien, to 6, ap 5, xa phuoc kien, huyen nha be, tp ho chi minh",0.8450704225352113,0.07042253521126761,0,0.07407407407407407,0.0,2,0,1
+1,"lo 263-a1, xom mai, xa yen bai, huyen ba vi, ha noi",0.775,0.1,0,0.024691358024691357,0.0,4,1,0
+1,"son hoa, xa vong dong, huyen thoai son, an giang",0.9230769230769231,0.0,0,0.012345679012345678,0.0,0,1,0
+1,"so nha 64, to 22 duong thanh am, phuong thuong thanh, quan long bien, ha noi",0.8688524590163934,0.06557377049180328,0,0.04938271604938271,0.0,3,1,0
+1,"45 duong so 12, kp 1, phuong cat lai, quan 2, tp ho chi minh",0.782608695652174,0.13043478260869565,0,0.04938271604938271,0.0,3,0,1
+1,"xa minh quan, xa minh quan, huyen tran yen, yen bai",0.926829268292683,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"so 29, pho o cach, phuong duc giang, quan long bien, ha noi",0.8723404255319149,0.0425531914893617,0,0.024691358024691357,0.0,3,1,0
+1,"11/20 nguyen duc thuan, phuong 13, quan tan binh, tp ho chi minh",0.8076923076923077,0.11538461538461539,0,0.024691358024691357,0.0,3,0,1
+1,"to 40, phuong dong tam, thanh pho yen bai, yen bai",0.875,0.05,0,0.024691358024691357,0.0,3,1,0
+1,"so 87,89 duong 295b thon tu, xa tan my, thanh pho bac giang, bac giang",0.8035714285714286,0.125,0,0.04938271604938271,0.0,4,1,0
+1,"18b nam quoc cang, phuong pham ngu lao, quan 1, tp ho chi minh",0.8775510204081632,0.061224489795918366,0,0.024691358024691357,0.0,2,0,1
+1,"thon ben, xa trung luong, huyen binh luc, ha nam",0.9230769230769231,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"602/28e dien bien phu, phuong 22, quan binh thanh, tp ho chi minh",0.7924528301886793,0.1320754716981132,0,0.024691358024691357,0.0,3,0,1
+1,"thua dat so 1398, to ban do so 46, khu pho khanh loc, phuong khanh binh, thi xa tan uyen, binh duong",0.8607594936708861,0.0759493670886076,0,0.07407407407407407,0.0,5,1,0
+1,"lo b4-49, duong so 1, khu nha o thuong mai duong sat di an,, phuong di an, tx di an, binh duong",0.8513513513513513,0.05405405405405406,0,0.04938271604938271,0.0,2,1,0
+1,"a15, lo 13, khu do thi moi dinh cong, phuong dinh cong, quan hoang mai, ha noi",0.8548387096774194,0.06451612903225806,0,0.037037037037037035,0.0,3,1,0
+1,"so nha 1, ngo 129 thon tuu liet, xa tam hiep, huyen thanh tri, ha noi",0.8518518518518519,0.07407407407407407,0,0.037037037037037035,0.0,4,1,0
+1,"so 1273/49/9/37, ap huong phuoc, xa phuoc tan, thanh pho bien hoa, dong nai",0.7419354838709677,0.14516129032258066,0,0.037037037037037035,0.0,5,1,0
+1,"512 le duc tho, phuong 17, quan go vap, tp ho chi minh",0.8095238095238095,0.11904761904761904,0,0.024691358024691357,0.0,3,0,1
+1,"so nha 200, khu do xa, phuong tu minh, thanh pho hai duong, hai duong",0.8727272727272727,0.05454545454545454,0,0.04938271604938271,0.0,4,1,0
+1,"06b le qang dinh, phuong 9, thanh pho vung tau, ba ria - vung tau",0.8627450980392157,0.058823529411764705,0,0.012345679012345678,0.0,2,0,1
+1,"47/45 nguyen huu tien, phuong tay thanh, quan tan phu, tp ho chi minh",0.8571428571428571,0.07142857142857142,0,0.024691358024691357,0.0,2,0,1
+1,"95/94/4 khu pho 1, phuong tan kieng, quan 7, tp ho chi minh",0.7446808510638298,0.14893617021276595,0,0.037037037037037035,0.0,2,0,1
+1,"so 1tang 15 cao oc sonadezi, so 1, duong so 1, kcn bien hoa, phuong an binh, thanh pho bien hoa, dong nai",0.8674698795180723,0.060240963855421686,0,0.04938271604938271,0.0,3,1,0
+1,"khu 2, thi tran sao vang, huyen tho xuan, thanh hoa",0.9024390243902439,0.024390243902439025,0,0.037037037037037035,0.0,2,1,0
+1,"31-33 dinh cong trang, phuong tan dinh, quan 1, tp ho chi minh",0.82,0.1,0,0.024691358024691357,0.0,2,0,1
+1,"so 44 tran huu tuoc, phuong nam dong, quan dong da, ha noi",0.8913043478260869,0.043478260869565216,0,0.024691358024691357,0.0,3,1,0
+1,"so 638, ap 2, xa dao thanh, thanh pho my tho, tien giang",0.8181818181818182,0.09090909090909091,0,0.037037037037037035,0.0,4,1,0
+1,"mot phan lo cn18, giap duong n2 va duong so 6, khu cong nghi, phuong phu tan, thanh pho thu dau mot, binh duong",0.8977272727272727,0.045454545454545456,0,0.04938271604938271,0.0,2,1,0
+1,"so 26/5 quoc lo 20, to 1, thi tran lien nghia, huyen duc trong, lam dong",0.8070175438596491,0.10526315789473684,0,0.06172839506172839,0.0,3,1,0
+1,"so 14, ngo 118, pho dao tan, phuong cong vi, quan ba dinh, ha noi",0.803921568627451,0.09803921568627451,0,0.024691358024691357,0.0,4,1,0
+1,"duong tran hung dao, to 2, khu pho 1, thi tran duong dong, huyen phu quoc, kien giang",0.8970588235294118,0.029411764705882353,0,0.06172839506172839,0.0,2,1,0
+1,"39 dang tat, phuong tan dinh, quan 1, tp ho chi minh",0.8536585365853658,0.07317073170731707,0,0.024691358024691357,0.0,2,0,1
+1,"to 50, phuong thanh khe tay, quan thanh khe, da nang",0.8809523809523809,0.047619047619047616,0,0.024691358024691357,0.0,3,1,0
+1,"189/7/13 hoa binh, phuong hiep tan, quan tan phu, tp ho chi minh",0.7884615384615384,0.11538461538461539,0,0.024691358024691357,0.0,3,0,1
+1,"thon tan phu, xa dak djrang, huyen mang yang, gia lai",0.9302325581395349,0.0,0,0.024691358024691357,0.0,0,1,0
+1,"tang tret, phong 02, b12 khu trung tam thuong mai tai chinh, phuong tan phu, quan 7, tp ho chi minh",0.8734177215189873,0.06329113924050633,0,0.04938271604938271,0.0,3,1,0
+1,"so 12, ngach 100/26 pho cho kham thien, phuong trung phung, quan dong da, ha noi",0.8153846153846154,0.1076923076923077,0,0.037037037037037035,0.0,4,1,0
+1,"so 3, khu b, bui minh truc, phuong 6, quan 8, tp ho chi minh",0.8260869565217391,0.06521739130434782,0,0.04938271604938271,0.0,2,1,0
+1,"so 24 pho cho don, phuong nghia xa, quan le chan, hai phong",0.8936170212765957,0.0425531914893617,0,0.024691358024691357,0.0,3,1,0
+1,"so 717, ap 5, xa duc hoa dong, huyen duc hoa, long an",0.8048780487804879,0.0975609756097561,0,0.037037037037037035,0.0,4,1,0
+1,"lo a4, mat bang 1988, phuong lam son, thanh pho thanh hoa, thanh hoa",0.8363636363636363,0.09090909090909091,0,0.024691358024691357,0.0,5,1,0
+1,"lo 50 d1, to 9, phuong mo lao, quan ha dong, ha noi",0.7948717948717948,0.10256410256410256,0,0.037037037037037035,0.0,3,1,0
+1,"so 373/39, duong phan dinh phung, phuong chanh lo, thanh pho quang ngai, quang ngai",0.855072463768116,0.07246376811594203,0,0.04938271604938271,0.0,4,1,0
+2,084****8748,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,37 750 232,0.0,1.0,0,0.0,0.0,10,0,1
+2,08.39.900.900,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,39 722 564,0.0,1.0,0,0.0,0.0,10,0,1
+2,0976739552,0.0,1.0,0,0.0,0.0,10,0,1
+2,2220 919,0.0,1.0,0,0.0,0.0,8,0,1
+2,38 351 864,0.0,1.0,0,0.0,0.0,10,0,1
+2,01682011527,0.0,1.0,0,0.0,0.0,11,0,1
+2,0437544796,0.0,1.0,0,0.0,0.0,10,0,1
+2,0983 576 083,0.0,1.0,0,0.0,0.0,12,0,1
+2,+84(8)39292101,0.0,0.7857142857142857,0,0.0,0.0,8,0,0
+2,(04) 32595158 so le 235,0.21052631578947367,0.6842105263157895,0,0.012345679012345678,0.125,9,0,0
+2,030.3887.000 (may le 1050),0.21739130434782608,0.6086956521739131,0,0.0,0.125,12,0,1
+2,04.37913038,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,1900 54 54 86,0.0,1.0,0,0.0,0.0,13,0,1
+2,0231.3875.920,0.0,0.8461538461538461,0,0.0,0.0,13,0,1
+2,0908399555,0.0,1.0,0,0.0,0.0,10,0,1
+2,0912442773,0.0,1.0,0,0.0,0.0,10,0,1
+2,0911.161.880,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,37 512 535,0.0,1.0,0,0.0,0.0,10,0,1
+2,0915 922 002,0.0,1.0,0,0.0,0.0,12,0,1
+2,0941.787.778,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0837.713.278,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,043.9348922,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,058.3827095,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,870460,0.0,1.0,0,0.0,0.0,6,0,1
+2,0915.360.286,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,38504574,0.0,1.0,0,0.0,0.0,8,0,1
+2,084****3342,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,084****0343,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,04.62.57.57.57,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,3831149,0.0,1.0,0,0.0,0.0,7,0,1
+2,0321.3942815,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,38688819,0.0,1.0,0,0.0,0.0,8,0,1
+2,0312.88.33.86,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,37 751 762,0.0,1.0,0,0.0,0.0,10,0,1
+2,870083,0.0,1.0,0,0.0,0.0,6,0,1
+2,04.37221467,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0835.920.220,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0915231150,0.0,1.0,0,0.0,0.0,10,0,1
+2,0838.350.825,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0913417685,0.0,1.0,0,0.0,0.0,10,0,1
+2,0912 525 905,0.0,1.0,0,0.0,0.0,12,0,1
+2,37 551 465,0.0,1.0,0,0.0,0.0,10,0,1
+2,043.9 341 433,0.0,0.9090909090909091,0,0.0,0.0,13,0,1
+2,(0031) 648946251,0.0,0.8666666666666667,0,0.0,0.0,10,0,0
+2,08.38.23.23.23,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,952.858.9215,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,38297643,0.0,1.0,0,0.0,0.0,8,0,1
+2,3832 064,0.0,1.0,0,0.0,0.0,8,0,1
+2,952.814.1100,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0466 5257 52,0.0,1.0,0,0.0,0.0,12,0,1
+2,0280-3855.545,0.0,0.8461538461538461,0,0.0,0.0,8,0,1
+2,0978178764,0.0,1.0,0,0.0,0.0,10,0,1
+2,04.63265919,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,38 410 646,0.0,1.0,0,0.0,0.0,10,0,1
+2,01698203985,0.0,1.0,0,0.0,0.0,11,0,1
+2,0983 680 587,0.0,1.0,0,0.0,0.0,12,0,1
+2,0915 254 284,0.0,1.0,0,0.0,0.0,12,0,1
+2,850758,0.0,1.0,0,0.0,0.0,6,0,1
+2,878760,0.0,1.0,0,0.0,0.0,6,0,1
+2,04 - 39.422.791,0.0,0.7692307692307693,0,0.0,0.0,11,0,1
+2,054.3.81.81.81,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,084****8470,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0983 000 040,0.0,1.0,0,0.0,0.0,12,0,1
+2,08.38.44.88.88,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,084****7339,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,8616161,0.0,1.0,0,0.0,0.0,7,0,1
+2,01292 807 379,0.0,1.0,0,0.0,0.0,13,0,1
+2,043.934443,0.0,0.9,0,0.0,0.0,10,0,1
+2,38 680 234,0.0,1.0,0,0.0,0.0,10,0,1
+2,084****7535,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,838074,0.0,1.0,0,0.0,0.0,6,0,1
+2,043.936336,0.0,0.9,0,0.0,0.0,10,0,1
+2,084****7352,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0913 383 538,0.0,1.0,0,0.0,0.0,12,0,1
+2,800-390-1119,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,0320.3892035,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,0912972830,0.0,1.0,0,0.0,0.0,10,0,1
+2,01644.948.941,0.0,0.8461538461538461,0,0.0,0.0,13,0,1
+2,0943 892 866,0.0,1.0,0,0.0,0.0,12,0,1
+2,0914.171.775,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0986151158,0.0,1.0,0,0.0,0.0,10,0,1
+2,3832 070,0.0,1.0,0,0.0,0.0,8,0,1
+2,0904 585 224,0.0,1.0,0,0.0,0.0,12,0,1
+2,0989.543.283,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,37 540 069,0.0,1.0,0,0.0,0.0,10,0,1
+2,878745,0.0,1.0,0,0.0,0.0,6,0,1
+2,(+84) 83 526 6060,0.0,0.7857142857142857,0,0.0,0.0,12,0,0
+2,043 8733333,0.0,1.0,0,0.0,0.0,11,0,1
+2,0904 268 067,0.0,1.0,0,0.0,0.0,12,0,1
+2,0903053639,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 655 606,0.0,1.0,0,0.0,0.0,10,0,1
+2,0908001350,0.0,1.0,0,0.0,0.0,10,0,1
+2,08.38.20.30.40,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,084****4441,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0989 188 616,0.0,1.0,0,0.0,0.0,12,0,1
+2,01674519611,0.0,1.0,0,0.0,0.0,11,0,1
+2,084****7705,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,952-858-9215,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,01235.007.448,0.0,0.8461538461538461,0,0.0,0.0,13,0,1
+2,0230.382503,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,1800 555 587,0.0,1.0,0,0.0,0.0,12,0,1
+2,952-858-9599,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,0753.850.174,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0908.844.559,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0912 361 381,0.0,1.0,0,0.0,0.0,12,0,1
+2,058.3522058,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,04.38.222.555,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,8731313,0.0,1.0,0,0.0,0.0,7,0,1
+2,35566435,0.0,1.0,0,0.0,0.0,8,0,1
+2,084****2873,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,8574 574,0.0,1.0,0,0.0,0.0,8,0,1
+2,0989 188 526,0.0,1.0,0,0.0,0.0,12,0,1
+2,01649730207,0.0,1.0,0,0.0,0.0,11,0,1
+2,37 764 293,0.0,1.0,0,0.0,0.0,10,0,1
+2,020 - 3821.062,0.0,0.8333333333333334,0,0.0,0.0,9,0,1
+2,00949.327.979,0.0,0.8461538461538461,0,0.0,0.0,13,0,1
+2,37 631 669,0.0,1.0,0,0.0,0.0,10,0,1
+2,0303.510206,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,04.35.62.62.62,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2, +84(8)3547,0.0,0.7,0,0.0,0.0,4,0,0
+2,094 66 888 39,0.0,1.0,0,0.0,0.0,13,0,1
+2,0753.850.003,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,3542 504,0.0,1.0,0,0.0,0.0,8,0,1
+2,084****3884,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,070 - 3830.814,0.0,0.8333333333333334,0,0.0,0.0,9,0,1
+2,0953 346 979,0.0,1.0,0,0.0,0.0,12,0,1
+2,38 261 820,0.0,1.0,0,0.0,0.0,10,0,1
+2,043 8222666,0.0,1.0,0,0.0,0.0,11,0,1
+2,1800 8180,0.0,1.0,0,0.0,0.0,9,0,1
+2,0780 - 3815.390,0.0,0.8461538461538461,0,0.0,0.0,9,0,1
+2,084****5580,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,952.851.9011,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0303.865150,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,38 732 559,0.0,1.0,0,0.0,0.0,10,0,1
+2,084****5657,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0935268562,0.0,1.0,0,0.0,0.0,10,0,1
+2,1900 5555 88,0.0,1.0,0,0.0,0.0,12,0,1
+2,043 8767676,0.0,1.0,0,0.0,0.0,11,0,1
+2,08.38.23.23.23,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0904122683,0.0,1.0,0,0.0,0.0,10,0,1
+2,04.37.19.59.83,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0909678080,0.0,1.0,0,0.0,0.0,10,0,1
+2,084****7969,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0989 204 985,0.0,1.0,0,0.0,0.0,12,0,1
+2,04.37.18.18.18,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0978979824,0.0,1.0,0,0.0,0.0,10,0,1
+2,084****3812,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,08 38423215,0.0,1.0,0,0.0,0.0,11,0,1
+2,(04) 32595158 so le 231,0.21052631578947367,0.6842105263157895,0,0.012345679012345678,0.125,9,0,0
+2,35 572 687,0.0,1.0,0,0.0,0.0,10,0,1
+2,0912.274.996,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0945213369,0.0,1.0,0,0.0,0.0,10,0,1
+2,033 - 3835.290,0.0,0.8333333333333334,0,0.0,0.0,9,0,1
+2,38940278,0.0,1.0,0,0.0,0.0,8,0,1
+2,0913199757,0.0,1.0,0,0.0,0.0,10,0,1
+2,0912 532 235,0.0,1.0,0,0.0,0.0,12,0,1
+2,01686 930 944,0.0,1.0,0,0.0,0.0,13,0,1
+2,37 656 137,0.0,1.0,0,0.0,0.0,10,0,1
+2,084****3538,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0124.900.4888,0.0,0.8461538461538461,0,0.0,0.0,13,0,1
+2,033.3825880,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,084****9756,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0904 628 588,0.0,1.0,0,0.0,0.0,12,0,1
+2,0905.051.961,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,35 511 120,0.0,1.0,0,0.0,0.0,10,0,1
+2,(84)936367283,0.0,0.8461538461538461,0,0.0,0.0,9,0,0
+2,0985 266 929,0.0,1.0,0,0.0,0.0,12,0,1
+2,0939.950.422,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0913 078 990,0.0,1.0,0,0.0,0.0,12,0,1
+2,(+844)3854 4673,0.0,0.7857142857142857,0,0.0,0.0,9,0,0
+2,093899 2326,0.0,1.0,0,0.0,0.0,11,0,1
+2,1800 588 822,0.0,1.0,0,0.0,0.0,12,0,1
+2,878760,0.0,1.0,0,0.0,0.0,6,0,1
+2,04.38.333.888,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,0987626642,0.0,1.0,0,0.0,0.0,10,0,1
+2,0947 173 333,0.0,1.0,0,0.0,0.0,12,0,1
+2,090 373 1189,0.0,1.0,0,0.0,0.0,12,0,1
+2,058.3562204,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0983 316 803,0.0,1.0,0,0.0,0.0,12,0,1
+2,0912 376186,0.0,1.0,0,0.0,0.0,11,0,1
+2,62807283,0.0,1.0,0,0.0,0.0,8,0,1
+2,054.3.87.87.87,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,08 22450402,0.0,1.0,0,0.0,0.0,11,0,1
+2,0583590166,0.0,1.0,0,0.0,0.0,10,0,1
+2,0753.850.813,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,090 3573 504,0.0,1.0,0,0.0,0.0,12,0,1
+2,+84(8)39292101   ,0.0,0.7857142857142857,0,0.0,0.0,8,0,0
+2,0913 361 686,0.0,1.0,0,0.0,0.0,12,0,1
+2,0903 452 906,0.0,1.0,0,0.0,0.0,12,0,1
+2,1900 58 58 85,0.0,1.0,0,0.0,0.0,13,0,1
+2,084****8134,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,(04) 32 595158 so le 221,0.21052631578947367,0.6842105263157895,0,0.012345679012345678,0.125,10,0,0
+2,0753.857.102,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,(04) 32 595158 so le 223,0.21052631578947367,0.6842105263157895,0,0.012345679012345678,0.125,10,0,0
+2,058.3819145,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,37 649 792,0.0,1.0,0,0.0,0.0,10,0,1
+2,0918307931,0.0,1.0,0,0.0,0.0,10,0,1
+2,38 735 181,0.0,1.0,0,0.0,0.0,10,0,1
+2,0913 307 731,0.0,1.0,0,0.0,0.0,12,0,1
+2,0903 401 414,0.0,1.0,0,0.0,0.0,12,0,1
+2,084****8977,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0902743461,0.0,1.0,0,0.0,0.0,10,0,1
+2,1800 68 68,0.0,1.0,0,0.0,0.0,10,0,1
+2,0916.232.592,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,043 8337338,0.0,1.0,0,0.0,0.0,11,0,1
+2,(04) 6652 2080,0.0,0.8333333333333334,0,0.0,0.0,10,0,0
+2,04.33961024,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0979228077,0.0,1.0,0,0.0,0.0,10,0,1
+2,0912488601,0.0,1.0,0,0.0,0.0,10,0,1
+2,0906.852.825,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,876229,0.0,1.0,0,0.0,0.0,6,0,1
+2,0989 537 530,0.0,1.0,0,0.0,0.0,12,0,1
+2,0936 576 494,0.0,1.0,0,0.0,0.0,12,0,1
+2,04.32.57.57.57,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0902.695.442,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0904300181,0.0,1.0,0,0.0,0.0,10,0,1
+2,878759,0.0,1.0,0,0.0,0.0,6,0,1
+2,0919090694,0.0,1.0,0,0.0,0.0,10,0,1
+2,0303.876443,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0912 356 168,0.0,1.0,0,0.0,0.0,12,0,1
+2,01652842688,0.0,1.0,0,0.0,0.0,11,0,1
+2,0460278666,0.0,1.0,0,0.0,0.0,10,0,1
+2,054.3.78.78.78,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,2220925,0.0,1.0,0,0.0,0.0,7,0,1
+2,0241- 3822.452,0.0,0.8461538461538461,0,0.0,0.0,9,0,1
+2,0240 - 3854511,0.0,0.9166666666666666,0,0.0,0.0,8,0,1
+2,0168.759.31.39,0.0,0.7857142857142857,0,0.0,0.0,14,0,1
+2,084****2262,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0967008488,0.0,1.0,0,0.0,0.0,10,0,1
+2,0946 105 369,0.0,1.0,0,0.0,0.0,12,0,1
+2,878755,0.0,1.0,0,0.0,0.0,6,0,1
+2,04.38372321,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0913 078 910,0.0,1.0,0,0.0,0.0,12,0,1
+2,0838997905,0.0,1.0,0,0.0,0.0,10,0,1
+2,800-963-0891,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,0230.3825030,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,0907080606,0.0,1.0,0,0.0,0.0,10,0,1
+2,0913 074 462,0.0,1.0,0,0.0,0.0,12,0,1
+2,04.38.215.215,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,0979.691.461,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0902.202.202,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,04.38.57.57.57,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,38740345,0.0,1.0,0,0.0,0.0,8,0,1
+2,(04) 371g0 788,0.08333333333333333,0.75,0,0.0,0.0,5,0,0
+2,952.814.1100,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,2220925,0.0,1.0,0,0.0,0.0,7,0,1
+2,04.38.222.666,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,0983.120.984,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,1900 555 574,0.0,1.0,0,0.0,0.0,12,0,1
+2,0912739912,0.0,1.0,0,0.0,0.0,10,0,1
+2,0945 661 357,0.0,1.0,0,0.0,0.0,12,0,1
+2,0977596967,0.0,1.0,0,0.0,0.0,10,0,1
+2,04.33242076,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,058.3523074,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0986 508 093,0.0,1.0,0,0.0,0.0,12,0,1
+2,0913059717,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 753 297 may le 169,0.3125,0.6875,0,0.0,0.125,10,0,1
+2,0977652886,0.0,1.0,0,0.0,0.0,10,0,1
+2,0974131489,0.0,1.0,0,0.0,0.0,10,0,1
+2,0919112588,0.0,1.0,0,0.0,0.0,10,0,1
+2,0912.584.854,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,084****5805,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,054.3.82.82.82,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0753.881.190,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0982 609 551,0.0,1.0,0,0.0,0.0,12,0,1
+2,08.35.12.12.12,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,04.62.920.338,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,2220921,0.0,1.0,0,0.0,0.0,7,0,1
+2,+84(8)3820 3358   ,0.0,0.7857142857142857,0,0.0,0.0,9,0,0
+2,04.36284805,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,37 843 162,0.0,1.0,0,0.0,0.0,10,0,1
+2,04.37.63.63.63,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0838.330.590,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,084****7772,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0753.850.335,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,039.3851032,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0240.3556123,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,0907345281,0.0,1.0,0,0.0,0.0,10,0,1
+2,"+84-4, 3787 1872",0.0,0.7857142857142857,0,0.0,0.0,10,0,0
+2,0916.602.399,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,043.9366274,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,037.3827464,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,04.3758231,0.0,0.9,0,0.0,0.0,10,0,1
+2,0199 333 0111,0.0,1.0,0,0.0,0.0,13,0,1
+2,0913 362 995,0.0,1.0,0,0.0,0.0,12,0,1
+2,0914.339.607,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,08.38.42.42.42,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,04. 37 || 5 4093,0.0,0.75,0,0.0,0.0,7,0,1
+2,0904 - 145.444,0.0,0.8333333333333334,0,0.0,0.0,8,0,1
+2,0710.3881245,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,01223444945,0.0,1.0,0,0.0,0.0,11,0,1
+2,054.3.89.89.89,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,38 535 485,0.0,1.0,0,0.0,0.0,10,0,1
+2,01222221969,0.0,1.0,0,0.0,0.0,11,0,1
+2,38 545 409,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 754 951,0.0,1.0,0,0.0,0.0,10,0,1
+2,0915 627 282,0.0,1.0,0,0.0,0.0,12,0,1
+2, +84(8)39290707  ,0.0,0.7857142857142857,0,0.0,0.0,8,0,0
+2,020.3820533,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,084****6355,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,04.38.61.61.61,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0972544485,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 840 484,0.0,1.0,0,0.0,0.0,10,0,1
+2,212.673.5424,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,04.33861738,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,01272389777,0.0,1.0,0,0.0,0.0,11,0,1
+2,2243 868,0.0,1.0,0,0.0,0.0,8,0,1
+2,0963.178.999,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0989.580.414,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0978032654,0.0,1.0,0,0.0,0.0,10,0,1
+2,08.38.222.666,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,084****9740,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0912 281 862,0.0,1.0,0,0.0,0.0,12,0,1
+2,043.997023,0.0,0.9,0,0.0,0.0,10,0,1
+2,"04, 766 9785",0.0,0.9,0,0.0,0.0,9,0,1
+2,0988 939 768,0.0,1.0,0,0.0,0.0,12,0,1
+2,3831 697,0.0,1.0,0,0.0,0.0,8,0,1
+2,043.9 362 207,0.0,0.9090909090909091,0,0.0,0.0,13,0,1
+2,0904 969 169,0.0,1.0,0,0.0,0.0,12,0,1
+2,04.33242075,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,043 8838383,0.0,1.0,0,0.0,0.0,11,0,1
+2,0906 086 668,0.0,1.0,0,0.0,0.0,12,0,1
+2,043.9970224 ,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,01693.209.663,0.0,0.8461538461538461,0,0.0,0.0,13,0,1
+2,3831 150,0.0,1.0,0,0.0,0.0,8,0,1
+2,01295779916,0.0,1.0,0,0.0,0.0,11,0,1
+2,0982 280 908,0.0,1.0,0,0.0,0.0,12,0,1
+2,091 3486 127,0.0,1.0,0,0.0,0.0,12,0,1
+2,+84(8)39292102 ,0.0,0.7857142857142857,0,0.0,0.0,8,0,0
+2,084****0224,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0915 317 287,0.0,1.0,0,0.0,0.0,12,0,1
+2,(04) 32595158 so le 236,0.21052631578947367,0.6842105263157895,0,0.012345679012345678,0.125,9,0,0
+2, +84(8)39292102 ,0.0,0.7857142857142857,0,0.0,0.0,8,0,0
+2,08.35.12.12.12,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0966.301.383,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,891840,0.0,1.0,0,0.0,0.0,6,0,1
+2,2471 456,0.0,1.0,0,0.0,0.0,8,0,1
+2,084****6221,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,04.38.57.45.74,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,+84(8)3829 0981   ,0.0,0.7857142857142857,0,0.0,0.0,9,0,0
+2,043 8734734,0.0,1.0,0,0.0,0.0,11,0,1
+2,0912617397,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 751 762,0.0,1.0,0,0.0,0.0,10,0,1
+2,08.35.35.35.35,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,036.3848394,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,580091,0.0,1.0,0,0.0,0.0,6,0,1
+2,0977022810,0.0,1.0,0,0.0,0.0,10,0,1
+2,0977.475.108,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0904 906 917,0.0,1.0,0,0.0,0.0,12,0,1
+2,822470,0.0,1.0,0,0.0,0.0,6,0,1
+2,0904 378 269,0.0,1.0,0,0.0,0.0,12,0,1
+2,0983740646,0.0,1.0,0,0.0,0.0,10,0,1
+2,62 734893,0.0,1.0,0,0.0,0.0,9,0,1
+2,0939079699,0.0,1.0,0,0.0,0.0,10,0,1
+2,0838.448.616,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,04.39990829,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0904054732,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 861 278,0.0,1.0,0,0.0,0.0,10,0,1
+2,0979680065,0.0,1.0,0,0.0,0.0,10,0,1
+2,0979389891,0.0,1.0,0,0.0,0.0,10,0,1
+2,3831149,0.0,1.0,0,0.0,0.0,7,0,1
+2,0984200935,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 261 012,0.0,1.0,0,0.0,0.0,10,0,1
+2,0121 621 0962,0.0,1.0,0,0.0,0.0,13,0,1
+2,0914 103 769,0.0,1.0,0,0.0,0.0,12,0,1
+2,043 8202020,0.0,1.0,0,0.0,0.0,11,0,1
+2,0913818153,0.0,1.0,0,0.0,0.0,10,0,1
+2,0982014977,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 850 542,0.0,1.0,0,0.0,0.0,10,0,1
+2,058.3822158,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,952-854-9220,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,058.3814696,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0989 374 806,0.0,1.0,0,0.0,0.0,12,0,1
+2,878746,0.0,1.0,0,0.0,0.0,6,0,1
+2,22 162 180,0.0,1.0,0,0.0,0.0,10,0,1
+2,0839.692.424,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,37 541 491,0.0,1.0,0,0.0,0.0,10,0,1
+2,084****8038,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,38920272,0.0,1.0,0,0.0,0.0,8,0,1
+2,04.39440118,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,2217543,0.0,1.0,0,0.0,0.0,7,0,1
+2,0913 505 629,0.0,1.0,0,0.0,0.0,12,0,1
+2,(84-8) 3929 6699,0.0,0.7857142857142857,0,0.0,0.0,10,0,0
+2,0902 200 822,0.0,1.0,0,0.0,0.0,12,0,1
+2,0983412681,0.0,1.0,0,0.0,0.0,10,0,1
+2,0977 514 377,0.0,1.0,0,0.0,0.0,12,0,1
+2,084****5869,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0904 222 111,0.0,1.0,0,0.0,0.0,12,0,1
+2,"04.3564,2639",0.0,0.8333333333333334,0,0.0,0.0,7,0,1
+2,084****6926,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,0982594154,0.0,1.0,0,0.0,0.0,10,0,1
+2,(84-4) 37877137,0.0,0.7857142857142857,0,0.0,0.0,9,0,0
+2,04.33762568,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0281.3879640,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,04.36284804,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0983970061,0.0,1.0,0,0.0,0.0,10,0,1
+2,01224748757,0.0,1.0,0,0.0,0.0,11,0,1
+2,0904 075 525,0.0,1.0,0,0.0,0.0,12,0,1
+2,0912 174 119,0.0,1.0,0,0.0,0.0,12,0,1
+2,08.38.30.40.50,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,(04) 32595158 so le 231,0.21052631578947367,0.6842105263157895,0,0.012345679012345678,0.125,9,0,0
+2,2471 361,0.0,1.0,0,0.0,0.0,8,0,1
+2,0966046407,0.0,1.0,0,0.0,0.0,10,0,1
+2,01689525898,0.0,1.0,0,0.0,0.0,11,0,1
+2,0949.124.869,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0936 447 452,0.0,1.0,0,0.0,0.0,12,0,1
+2, +84(8)3837 9977,0.0,0.7857142857142857,0,0.0,0.0,9,0,0
+2,0974.239.694,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0230.3830405,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,08071501,0.0,1.0,0,0.0,0.0,8,0,1
+2,04.38435263,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0303.841931,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,090 5110 367,0.0,1.0,0,0.0,0.0,12,0,1
+2,01654521214,0.0,1.0,0,0.0,0.0,11,0,1
+2,870462,0.0,1.0,0,0.0,0.0,6,0,1
+2,35 541 640,0.0,1.0,0,0.0,0.0,10,0,1
+2,043 8363636,0.0,1.0,0,0.0,0.0,11,0,1
+2,091 3419 666,0.0,1.0,0,0.0,0.0,12,0,1
+2,0907 700 779,0.0,1.0,0,0.0,0.0,12,0,1
+2,800-843-7422,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,04.36284803,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0839.404.409,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,031.3728949,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,01666240750,0.0,1.0,0,0.0,0.0,11,0,1
+2,0838.553.303,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0915.046.638,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,+84(8)3930 2949 ,0.0,0.7857142857142857,0,0.0,0.0,9,0,0
+2,0903 269 868,0.0,1.0,0,0.0,0.0,12,0,1
+2,043 8645645,0.0,1.0,0,0.0,0.0,11,0,1
+2,32 595 379 nhanh 161,0.3125,0.6875,0,0.0,0.125,10,0,1
+2,0916303082,0.0,1.0,0,0.0,0.0,10,0,1
+2,054.3.57.57.57,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0240.3.81.81.81,0.0,0.7333333333333333,0,0.0,0.0,15,0,1
+2,0919883336,0.0,1.0,0,0.0,0.0,10,0,1
+2,0939166160,0.0,1.0,0,0.0,0.0,10,0,1
+2,0912.299.897,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,033.3777478,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,+84(8)39292105 ,0.0,0.7857142857142857,0,0.0,0.0,8,0,0
+2,08.38.111.111,0.0,0.7692307692307693,0,0.0,0.0,13,0,1
+2,0912 083 250,0.0,1.0,0,0.0,0.0,12,0,1
+2,37 560 120,0.0,1.0,0,0.0,0.0,10,0,1
+2,01267126403,0.0,1.0,0,0.0,0.0,11,0,1
+2,(04) 38356800 so le 724,0.21052631578947367,0.6842105263157895,0,0.012345679012345678,0.125,9,0,0
+2,952.854.8554,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,1900 555 590,0.0,1.0,0,0.0,0.0,12,0,1
+2,0906 198 410,0.0,1.0,0,0.0,0.0,12,0,1
+2,so dien thoai:,0.9166666666666666,0.0,0,0.012345679012345678,0.0,0,1,0
+2,01235 116 613,0.0,1.0,0,0.0,0.0,13,0,1
+2,04.37379209,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,04.35554454,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,073 - 3881. 577,0.0,0.8333333333333334,0,0.0,0.0,10,0,1
+2,071 - 3829.309,0.0,0.8333333333333334,0,0.0,0.0,9,0,1
+2,04.38276194,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0918130704,0.0,1.0,0,0.0,0.0,10,0,1
+2,952-854-6118,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,0953 328 976,0.0,1.0,0,0.0,0.0,12,0,1
+2,043 9334455,0.0,1.0,0,0.0,0.0,11,0,1
+2,952.854.5393,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0913002087,0.0,1.0,0,0.0,0.0,10,0,1
+2,0124 772 0909,0.0,1.0,0,0.0,0.0,13,0,1
+2,0912.352.607,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,043 7222377,0.0,1.0,0,0.0,0.0,11,0,1
+2,0909 741 889,0.0,1.0,0,0.0,0.0,12,0,1
+2,04.38736960/207,0.0,0.8666666666666667,0,0.0,0.0,11,0,1
+2,043 7161616,0.0,1.0,0,0.0,0.0,11,0,1
+2,0939945565,0.0,1.0,0,0.0,0.0,10,0,1
+2,0916.847.635,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,38 534 053,0.0,1.0,0,0.0,0.0,10,0,1
+2,0913701986,0.0,1.0,0,0.0,0.0,10,0,1
+2,04.38693745,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0710.3823366,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,043 8373737,0.0,1.0,0,0.0,0.0,11,0,1
+2,043.9 366 276,0.0,0.9090909090909091,0,0.0,0.0,13,0,1
+2,0989420655,0.0,1.0,0,0.0,0.0,10,0,1
+2,38387200,0.0,1.0,0,0.0,0.0,8,0,1
+2,(+84-4) 6682 2681,0.0,0.7333333333333333,0,0.0,0.0,10,0,0
+2,0916 118 225,0.0,1.0,0,0.0,0.0,12,0,1
+2,084****3717,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,38 355 906,0.0,1.0,0,0.0,0.0,10,0,1
+2,0839.851.761,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,0350- 3849.381,0.0,0.8461538461538461,0,0.0,0.0,9,0,1
+2,0983 067 039,0.0,1.0,0,0.0,0.0,12,0,1
+2,04.33522162,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0241.3760969,0.0,0.9166666666666666,0,0.0,0.0,12,0,1
+2,800-665-8685,0.0,0.8333333333333334,0,0.0,0.0,4,0,1
+2,0943331895,0.0,1.0,0,0.0,0.0,10,0,1
+2,08.38.21.18.21,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,0979 759 782,0.0,1.0,0,0.0,0.0,12,0,1
+2,04.32.62.62.62,0.0,0.7142857142857143,0,0.0,0.0,14,0,1
+2,058.3810423,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,084****4204,0.0,0.6363636363636364,0,0.0,0.0,4,0,1
+2,38 535 296,0.0,1.0,0,0.0,0.0,10,0,1
+2,37 715 351,0.0,1.0,0,0.0,0.0,10,0,1
+2,096261.8888,0.0,0.9090909090909091,0,0.0,0.0,11,0,1
+2,0240.3.69.69.69,0.0,0.7333333333333333,0,0.0,0.0,15,0,1
+2,3838 878,0.0,1.0,0,0.0,0.0,8,0,1
+2,0904.235.475,0.0,0.8333333333333334,0,0.0,0.0,12,0,1
+2,043 2202020,0.0,1.0,0,0.0,0.0,11,0,1
